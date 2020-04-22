@@ -7,7 +7,6 @@ A social enterprise is an organization that is both primarily **focused on socia
 
 The goal of this repo is to provide an exhausted list of resources for people who would like to dive into the world of social enterprises. Wikipedia is a great place to get started learning about the concept but not meant to be a directory of related resources.
 
-## About
 <details>
   <summary>Rant on why I made this</summary>
   
@@ -16,7 +15,7 @@ The goal of this repo is to provide an exhausted list of resources for people wh
 </details>
 
 
-## Communities
+## Communities 🤝
 
 ### Online 
 
@@ -36,20 +35,25 @@ The goal of this repo is to provide an exhausted list of resources for people wh
 * [eventbrite](https://www.eventbrite.com/)
 * [SEA Chapters](https://socialenterprise.us/programs/chapter-directory/)
 
-## Advocates
+### Advocates
 
 * [Social Enterprise Alliance](https://socialenterprise.us/) - US social enterprise advocates  
 * [senco](https://senco.io/home/) (social enterprise network of central ontario)
 
 
-## Wikipedia
+## Wikipedia Links 🔗
 
-* [List_of_social_entrepreneurs](https://en.wikipedia.org/wiki/List_of_social_entrepreneurs )
-* [Category:Social_entrepreneurs](https://en.wikipedia.org/wiki/Category:Social_entrepreneurs )
-* [Category:Social_entrepreneurship](https://en.wikipedia.org/wiki/Category:Social_entrepreneurship)
+Wikipedia is a great place to explore and find related topics.
+
+* [Social enterprise](https://en.wikipedia.org/wiki/Social_enterprise)
+* [Social entrepreneurship](https://en.wikipedia.org/wiki/Social_entrepreneurship)
+* [List of social entrepreneurs](https://en.wikipedia.org/wiki/List_of_social_entrepreneurs)
+* [Category:Social enterprises](https://en.wikipedia.org/wiki/Category:Social_enterprises)
+* [Category:Social entrepreneurs](https://en.wikipedia.org/wiki/Category:Social_entrepreneurs)
+* [Category:Social entrepreneurship](https://en.wikipedia.org/wiki/Category:Social_entrepreneurship)
  
 
-## Courses
+## Courses 🎓
 [Philanthropy University](https://courses.philanthropyu.org/courses) | [Interview with CEO](https://iblnews.org/philanthropy-universitys-connor-diemand-yauman/) | [Origins](https://www.nytimes.com/2015/10/17/your-money/online-university-helps-philanthropic-groups-and-their-leaders.html)  
 
 * Several free courses such as: _Introduction to Fundraising_, _Fundraising Strategies_, _and Setting Up a Nonprofit Board_
@@ -58,7 +62,7 @@ Coursera
 * [Social Entrepreneurship](https://www.coursera.org/learn/wharton-social-entrepreneurship) by Wharton Business School - One course, approximately 9 hours of work
 * [Social Entrepreneurship Specialization](https://www.coursera.org/specializations/social-entrepreneurship-cbs) by Copenhagen Business School - Three courses to complete over 4 months
 
-## Papers  
+## Papers 📃
 * (1998) _The Meaning of "Social Entrepreneurship"_ by J. Gregory Dees
     - A short history of social entrepreneurship (and why the definition isn't agreed upon)
 * (2004) _The Legitimacy of Social Enterprise_ Raymond Dart
@@ -71,7 +75,7 @@ Coursera
 [_Evolution of the social enterprise industry_](
 https://socialent.org/documents/EVOLUTIONOFTHESOCIALENTERPRISEINDUSTRY--ACHRONOLOGYOFKEYEVENTS.pdf) by the Institute for Social Entrepreneurs
 
-## Books
+## Books 📚
 
 | Title | Author | Year | Notes |
 |-------|--------|------|-------|
@@ -79,33 +83,30 @@ https://socialent.org/documents/EVOLUTIONOFTHESOCIALENTERPRISEINDUSTRY--ACHRONOL
 |       |        |      |       |
 
 
-## News
+## News 📰
 
-### Outlets
+### Finding Articles
 * Harvard Business Review [articles tagged "social enterprise"](https://hbr.org/topic/social-enterprise)
 * Stanford Social Innovation Review [articles tagged "social enterprise"](https://ssir.org/topics/category/social_enterprise#)
-
-### Blogs
 * [The Schwab Foundation for Social Entrepreneurship](https://www.weforum.org/communities/schwab-foundation-for-social-entrepreneurship/articles)
 * Top Medium posts about [Social Enterprise](https://medium.com/tag/social-entrepreneurship/archive/) and [Social Entrepreneurship](https://medium.com/tag/social-entrepreneurship/archive)
 * Galileo Impact Stories | [YouTube](https://www.youtube.com/channel/UCtpwKxUCqGfHPKSqYKgfphw) | [Kickstarter](https://www.kickstarter.com/projects/baurens/pro-russia) | [Website](https://iiic.ch/)  
     * A small but growing organization dedicated to covering impact investing. Content is often Russia oriented and not always directly about social enterprises but much of the content is relative. [Here](https://youtu.be/Pzxz38AnXCc) is a video summarizing their work in 2019.
 
-
 ### Scholarly Journals
 * [Journal of Social Entrepreneurship](https://www.tandfonline.com/toc/rjse20/current)
 
-### Stories
+### Specific Content
 * [State of Social Entrepreneurship 2020](https://echoinggreen.org/news/state-of-social-entrepreneurship-2020/) by Echoing Green
 
-## People 
+## People 🧑
 
 ### Authors
 * [David Bornstein](https://en.wikipedia.org/wiki/David_Bornstein_(author))
 * [Susan Davis](https://en.wikipedia.org/wiki/Susan_Davis_(author))
 
 
-### Twitter Accounts
+### Twitter Accounts 🐦
 
 Not all of these accounts are specific to social enterprises but will help you get connected to the Twitter sphere of social impact folks.
 
@@ -118,16 +119,16 @@ Not all of these accounts are specific to social enterprises but will help you g
 * [HBS SocialEnterprise](https://twitter.com/HBSSEI)
 * [Social Enterprise Alliance](https://twitter.com/SEAlliance)
 
-## Tools
+## Tools 🔨
 * [GuideStar](https://www.guidestar.org) - Learn about nonprofits missions
 * [ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/) - Easy access to any nonprofit's tax documents
 
-## Videos
+## Videos 📽️
 * [Muhammad Yunus’s Nobel Prize Speech](https://www.nobelprize.org/prizes/peace/2006/yunus/lecture/) — Yunus built Grameen Bank, the poster child for social enterprises.
 * [How social entrepreneurship will change the world | Erica Wenger | TEDxUSC](https://www.youtube.com/watch?v=KrQuGTvwl0s)
 
 
-## FAQs:
+## FAQs ❓
 
 Q: Why social enterprise instead of social entrepreneurship?  
 A: I want to focus on the organizational structure rather than the individuals within an organization. Social entrepreneurship can mean anything from a large organization championing for social causes to a lone person doing community development. While both of those are important and valuable this is a resource geared towards people interested in the organizational side of things.
