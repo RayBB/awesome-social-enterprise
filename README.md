@@ -8,7 +8,13 @@ A social enterprise is an organization that is both primarily **focused on socia
 The goal of this repo is to provide an exhausted list of resources for people who would like to dive into the world of social enterprises. Wikipedia is a great place to get started learning about the concept but not meant to be a directory of related resources.
 
 ## About
-Throughout my time at Eckerd College I bumped into the concept of social enterprises a few times. First, in a course called _Technology, Society, and The Environment_, then through meeting the CTO of a social enterprise, and finally through taking a course called _Social Entrepreneurship_. Each step along the way I fell more in love with the concept of social enterprises. However, I never felt like there was an easy way to connect to the world of social enterprises. If I wanted to know about productivity, China, computer science, or just about any other topic there seemed to be endless blogs, videos, and news to consume. Ultimately, I set a Google news alert for weekly digests of anything related to "social entrepreneurs." That worked okay but I still felt like I was missing out on something. Fast-forward a few years and I find myself heavily involved in a nonprofit called hackNY, working at The New York Times, and having a stronger urge than ever to learn about social enterprises. As such, I've started compiling this list of resources to make it easy for people to connect with the world of social enterprises. See the FAQs at the bottom for some common questions.
+<details>
+  <summary>Rant on why I made this</summary>
+  
+  When I was at Eckerd College I repeatedly bumped into the concept of social enterprises. First, in a course called _Technology, Society, and The Environment_, then through meeting the CTO of a social enterprise, and finally by taking a course called _Social Entrepreneurship_. Each step along the way I fell more in love with the concept of social enterprises. However, I never felt like there was an easy way to connect to the world of social enterprises. Eventually, I set a Google news alert for weekly digests of anything related to "social entrepreneurs." That worked okay but I still felt like I was missing out on something. Fast-forward a few years and I find myself heavily involved in a nonprofit called [hackNY](https://hackny.org/), working at The New York Times, and having a stronger urge than ever to learn about social enterprises. As such, I've started compiling this list of resources to make it easy for people to connect with the world of social enterprises. See the FAQs at the bottom for some common questions.
+  
+</details>
+
 
 ## Communities
 
