@@ -1,7 +1,7 @@
 # Awesome Social Enterprise [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 📗Resources to dive into the world of social enterprises 🌼 
 
-> A social enterprise is an organization that is both primarily **focused on social impact** and at least partially **self-funded**.
+> A social enterprise is an organization that is primarily **focused on social impact** and at least partially **self-funded**.
 
 
 <details>
