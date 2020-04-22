@@ -155,3 +155,6 @@ If you have some resources you think would be a good fit please let me know. You
 ## Todo
 * Request to be included in list of awesome repos [here](https://github.com/sindresorhus/awesome#business)
 * Read related books and articles before adding them
+    * An Army of Problem Solvers by Shaun Loney
+    * Introduction to Social Entrepreneurship by Teresa Chahine
+    * Educating at Scale for Sustainable Development and Social Enterprise Growth by Sara Calvo 
