@@ -72,8 +72,8 @@ Coursera
 
 
 ## Tools 🔨
-* [GuideStar](https://www.guidestar.org) - Learn about nonprofits missions
-* [ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/) - Easy access to any nonprofit's tax documents
+* [GuideStar](https://www.guidestar.org) - Reporting on U.S. nonprofit companies
+* [ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/) - Easily access any U.S. nonprofit's tax documents
 
 ## Videos 📽️
 * [Muhammad Yunus’s Nobel Prize Speech](https://www.nobelprize.org/prizes/peace/2006/yunus/lecture/) — Yunus built Grameen Bank, the poster child for social enterprises.
@@ -111,6 +111,8 @@ Coursera
 * [David Bornstein](https://en.wikipedia.org/wiki/David_Bornstein_(author))
 * [Susan Davis](https://en.wikipedia.org/wiki/Susan_Davis_(author))
 
+### Social Entrepreneurs
+* [Muhammad Yunus](https://en.wikipedia.org/wiki/Muhammad_Yunus) - Nobel Prize winner, founder of Grameen Bank, considered father of social enterprise
 
 ### Twitter Accounts 🐦
 
