@@ -14,6 +14,70 @@ The goal of this repo is to provide an exhausted list of resources for people wh
   
 </details>
 
+## Wikipedia Links 🔗
+
+Wikipedia is a great place to explore and find related topics.
+
+* [Social enterprise](https://en.wikipedia.org/wiki/Social_enterprise)
+* [Social entrepreneurship](https://en.wikipedia.org/wiki/Social_entrepreneurship)
+* [List of social entrepreneurs](https://en.wikipedia.org/wiki/List_of_social_entrepreneurs)
+* [Category:Social enterprises](https://en.wikipedia.org/wiki/Category:Social_enterprises)
+* [Category:Social entrepreneurs](https://en.wikipedia.org/wiki/Category:Social_entrepreneurs)
+* [Category:Social entrepreneurship](https://en.wikipedia.org/wiki/Category:Social_entrepreneurship)
+ 
+
+ ## News 📰
+
+### Finding Articles
+* Harvard Business Review [articles tagged "social enterprise"](https://hbr.org/topic/social-enterprise)
+* Stanford Social Innovation Review [articles tagged "social enterprise"](https://ssir.org/topics/category/social_enterprise#)
+* [The Schwab Foundation for Social Entrepreneurship](https://www.weforum.org/communities/schwab-foundation-for-social-entrepreneurship/articles)
+* Top Medium posts about [Social Enterprise](https://medium.com/tag/social-entrepreneurship/archive/) and [Social Entrepreneurship](https://medium.com/tag/social-entrepreneurship/archive)
+* Galileo Impact Stories | [YouTube](https://www.youtube.com/channel/UCtpwKxUCqGfHPKSqYKgfphw) | [Kickstarter](https://www.kickstarter.com/projects/baurens/pro-russia) | [Website](https://iiic.ch/)  
+    * A small but growing organization dedicated to covering impact investing. Content is often Russia oriented and not always directly about social enterprises but much of the content is relative. [Here](https://youtu.be/Pzxz38AnXCc) is a video summarizing their work in 2019.
+* [Journal of Social Entrepreneurship](https://www.tandfonline.com/toc/rjse20/current)
+
+### Articles
+* [State of Social Entrepreneurship 2020](https://echoinggreen.org/news/state-of-social-entrepreneurship-2020/) by Echoing Green
+
+## Papers 📃
+* (1998) _The Meaning of "Social Entrepreneurship"_ by J. Gregory Dees
+    - A short history of social entrepreneurship (and why the definition isn't agreed upon)
+* (2004) _The Legitimacy of Social Enterprise_ Raymond Dart
+    - A pragmatic discussion on why social enterprises, in relation to nonprofits, exist
+* (2008) [_Evolution of the social enterprise industry_](
+https://socialent.org/documents/EVOLUTIONOFTHESOCIALENTERPRISEINDUSTRY--ACHRONOLOGYOFKEYEVENTS.pdf) by the Institute for Social Entrepreneurs
+    - Less academic but a detailed history of events related to social enterprises
+* (2010) _Conceptions of Social Enterprise and Social Entrepreneurship_ by Jacques Defourny
+    - Parallels between US and Europe Social Enterprise
+* (2014) _Social Enterprise – A New Phenomenon in the Field of Economic and Social Welfare?_ by Leandro Sepulveda
+    - A history of social enterprises from from UK perspective
+
+## Books 📚
+
+| Title | Author | Year | Notes |
+|-------|--------|------|-------|
+|Social Entrepreneurship: What Everyone Needs To Know|David Bornstein|2010| Great introduction to social entrepreneurship. Short and sweet with lots of great answers to common questions. |
+|       |        |      |       |
+
+
+## Courses 🎓
+[Philanthropy University](https://courses.philanthropyu.org/courses) | [Interview with CEO](https://iblnews.org/philanthropy-universitys-connor-diemand-yauman/) | [Origins](https://www.nytimes.com/2015/10/17/your-money/online-university-helps-philanthropic-groups-and-their-leaders.html)  
+
+* Several free courses such as: _Introduction to Fundraising_, _Fundraising Strategies_, _and Setting Up a Nonprofit Board_
+
+Coursera  
+* [Social Entrepreneurship](https://www.coursera.org/learn/wharton-social-entrepreneurship) by Wharton Business School - One course, approximately 9 hours of work
+* [Social Entrepreneurship Specialization](https://www.coursera.org/specializations/social-entrepreneurship-cbs) by Copenhagen Business School - Three courses to complete over 4 months
+
+
+## Tools 🔨
+* [GuideStar](https://www.guidestar.org) - Learn about nonprofits missions
+* [ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/) - Easy access to any nonprofit's tax documents
+
+## Videos 📽️
+* [Muhammad Yunus’s Nobel Prize Speech](https://www.nobelprize.org/prizes/peace/2006/yunus/lecture/) — Yunus built Grameen Bank, the poster child for social enterprises.
+* [How social entrepreneurship will change the world | Erica Wenger | TEDxUSC](https://www.youtube.com/watch?v=KrQuGTvwl0s)
 
 ## Communities 🤝
 
@@ -41,64 +105,6 @@ The goal of this repo is to provide an exhausted list of resources for people wh
 * [senco](https://senco.io/home/) (social enterprise network of central ontario)
 
 
-## Wikipedia Links 🔗
-
-Wikipedia is a great place to explore and find related topics.
-
-* [Social enterprise](https://en.wikipedia.org/wiki/Social_enterprise)
-* [Social entrepreneurship](https://en.wikipedia.org/wiki/Social_entrepreneurship)
-* [List of social entrepreneurs](https://en.wikipedia.org/wiki/List_of_social_entrepreneurs)
-* [Category:Social enterprises](https://en.wikipedia.org/wiki/Category:Social_enterprises)
-* [Category:Social entrepreneurs](https://en.wikipedia.org/wiki/Category:Social_entrepreneurs)
-* [Category:Social entrepreneurship](https://en.wikipedia.org/wiki/Category:Social_entrepreneurship)
- 
-
-## Courses 🎓
-[Philanthropy University](https://courses.philanthropyu.org/courses) | [Interview with CEO](https://iblnews.org/philanthropy-universitys-connor-diemand-yauman/) | [Origins](https://www.nytimes.com/2015/10/17/your-money/online-university-helps-philanthropic-groups-and-their-leaders.html)  
-
-* Several free courses such as: _Introduction to Fundraising_, _Fundraising Strategies_, _and Setting Up a Nonprofit Board_
-
-Coursera  
-* [Social Entrepreneurship](https://www.coursera.org/learn/wharton-social-entrepreneurship) by Wharton Business School - One course, approximately 9 hours of work
-* [Social Entrepreneurship Specialization](https://www.coursera.org/specializations/social-entrepreneurship-cbs) by Copenhagen Business School - Three courses to complete over 4 months
-
-## Papers 📃
-* (1998) _The Meaning of "Social Entrepreneurship"_ by J. Gregory Dees
-    - A short history of social entrepreneurship (and why the definition isn't agreed upon)
-* (2004) _The Legitimacy of Social Enterprise_ Raymond Dart
-    - A pragmatic discussion on why social enterprises, in relation to nonprofits, exist
-* (2010) _Conceptions of Social Enterprise and Social Entrepreneurship_ by Jacques Defourny
-    - Parallels between US and Europe Social Enterprise
-* (2014) _Social Enterprise – A New Phenomenon in the Field of Economic and Social Welfare?_ by Leandro Sepulveda
-    - A history of social enterprises from from UK perspective
-
-[_Evolution of the social enterprise industry_](
-https://socialent.org/documents/EVOLUTIONOFTHESOCIALENTERPRISEINDUSTRY--ACHRONOLOGYOFKEYEVENTS.pdf) by the Institute for Social Entrepreneurs
-
-## Books 📚
-
-| Title | Author | Year | Notes |
-|-------|--------|------|-------|
-|Social Entrepreneurship: What Everyone Needs To Know|David Bornstein|2010| Great introduction to social entrepreneurship. Short and sweet with lots of great answers to common questions. |
-|       |        |      |       |
-
-
-## News 📰
-
-### Finding Articles
-* Harvard Business Review [articles tagged "social enterprise"](https://hbr.org/topic/social-enterprise)
-* Stanford Social Innovation Review [articles tagged "social enterprise"](https://ssir.org/topics/category/social_enterprise#)
-* [The Schwab Foundation for Social Entrepreneurship](https://www.weforum.org/communities/schwab-foundation-for-social-entrepreneurship/articles)
-* Top Medium posts about [Social Enterprise](https://medium.com/tag/social-entrepreneurship/archive/) and [Social Entrepreneurship](https://medium.com/tag/social-entrepreneurship/archive)
-* Galileo Impact Stories | [YouTube](https://www.youtube.com/channel/UCtpwKxUCqGfHPKSqYKgfphw) | [Kickstarter](https://www.kickstarter.com/projects/baurens/pro-russia) | [Website](https://iiic.ch/)  
-    * A small but growing organization dedicated to covering impact investing. Content is often Russia oriented and not always directly about social enterprises but much of the content is relative. [Here](https://youtu.be/Pzxz38AnXCc) is a video summarizing their work in 2019.
-
-### Scholarly Journals
-* [Journal of Social Entrepreneurship](https://www.tandfonline.com/toc/rjse20/current)
-
-### Specific Content
-* [State of Social Entrepreneurship 2020](https://echoinggreen.org/news/state-of-social-entrepreneurship-2020/) by Echoing Green
-
 ## People 🧑
 
 ### Authors
@@ -118,14 +124,6 @@ Not all of these accounts are specific to social enterprises but will help you g
 * [Social Good News](https://twitter.com/mysocialgood)
 * [HBS SocialEnterprise](https://twitter.com/HBSSEI)
 * [Social Enterprise Alliance](https://twitter.com/SEAlliance)
-
-## Tools 🔨
-* [GuideStar](https://www.guidestar.org) - Learn about nonprofits missions
-* [ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/) - Easy access to any nonprofit's tax documents
-
-## Videos 📽️
-* [Muhammad Yunus’s Nobel Prize Speech](https://www.nobelprize.org/prizes/peace/2006/yunus/lecture/) — Yunus built Grameen Bank, the poster child for social enterprises.
-* [How social entrepreneurship will change the world | Erica Wenger | TEDxUSC](https://www.youtube.com/watch?v=KrQuGTvwl0s)
 
 
 ## FAQs ❓
