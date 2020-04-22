@@ -1,7 +1,7 @@
 # Awesome Social Enterprise [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 📗Resources to dive into the world of social enterprises 🌼 
 
-> A social enterprise is an organization that is primarily **focused on social impact** and at least partially **self-funded**.
+> A social enterprise is an organization that is primarily **focused on social impact** and is at least partially **self-funded**.
 
 
 <details>
@@ -9,7 +9,7 @@
   
   When I was at Eckerd College I repeatedly bumped into the concept of social enterprises. First, in a course called _Technology, Society, and The Environment_, then through meeting the CTO of a social enterprise, and finally by taking a course called _Social Entrepreneurship_. Each step along the way I fell more in love with the concept of social enterprises. However, I never felt like there was an easy way to connect to the world of social enterprises. 
   
-  Eventually, I set a Google news alert for weekly digests of anything related to "social entrepreneurs." That worked okay but I still felt like I was missing out on something. Fast-forward a few years and I find myself heavily involved in a nonprofit called [hackNY](https://hackny.org/), working at The New York Times, and having a stronger urge than ever to learn about social enterprises. As such, I've started compiling this list of resources to make it easy for people to connect with the world of social enterprises. See the FAQs at the bottom for some common questions.
+  Eventually, I set a [Google Alert](https://support.google.com/websearch/answer/4815696?hl=en) for weekly digests of anything related to "social entrepreneurs." That worked okay but I still felt like I was missing out on something. Fast-forward a few years and I find myself heavily involved in a nonprofit called [hackNY](https://hackny.org/), working at The New York Times, and having a stronger urge than ever to learn about social enterprises. As such, I've started compiling this list of resources to make it easy for people to connect with the world of social enterprises. See the FAQs at the bottom for some common questions.
   
 </details>
 
@@ -46,9 +46,9 @@ Wikipedia is a great place to explore and find related topics.
 https://socialent.org/documents/EVOLUTIONOFTHESOCIALENTERPRISEINDUSTRY--ACHRONOLOGYOFKEYEVENTS.pdf) by the Institute for Social Entrepreneurs
     - Less academic but a detailed history of events related to social enterprises
 * (2010) _Conceptions of Social Enterprise and Social Entrepreneurship_ by Jacques Defourny
-    - Parallels between US and Europe Social Enterprise
+    - Parallels between US and European Social Enterprises
 * (2014) _Social Enterprise – A New Phenomenon in the Field of Economic and Social Welfare?_ by Leandro Sepulveda
-    - A history of social enterprises from from UK perspective
+    - A history of social enterprises from a UK perspective
 
 ## Books 📚
 | Title | Author | Year | Notes |
@@ -119,8 +119,8 @@ Coursera
 Not all of these accounts are specific to social enterprises but will help you get connected to the Twitter sphere of social impact folks.
 
 * [Ken Banks](https://twitter.com/kiwanja) - Founder of Kiwanja
-* [Tech Jobs for Good](https://twitter.com/techjobsforgood) - posts about tech jobs with social impact 
-* [Centre for Social Innovation Toronto](https://twitter.com/csiTO) - a coworking space, community, and launchpad for people who are changing the world
+* [Tech Jobs for Good](https://twitter.com/techjobsforgood) - Posts about tech jobs with social impact 
+* [Centre for Social Innovation Toronto](https://twitter.com/csiTO) - A coworking space, community, and launchpad for people who are changing the world
 * [Ashoka](https://twitter.com/Ashoka)
 * [Echoing Green](https://twitter.com/echoinggreen)
 * [Social Good News](https://twitter.com/mysocialgood)
@@ -131,7 +131,7 @@ Not all of these accounts are specific to social enterprises but will help you g
 
 ## FAQs ❓
 Q: What do you like about social enterprises?  
-A: I love the idea of bringing the goodness of nonprofits and the efficiency of business together. I wouldn't say that all nonprofits are inefficient or that no businesses are good. However, there is something to be said for applying intense business tactics to maximize social impact. 
+A: I love the idea of bringing the goodness of nonprofits and the efficiency of business together. I wouldn't say that all nonprofits are inefficient or that no businesses are good. However, there is something to be said for applying business tactics to maximize social impact. The idea of having some organizations  
 
 Q: Why social enterprise instead of social entrepreneurship?  
 A: I want to focus on the organizational structure rather than the individuals within an organization. Social entrepreneurship can mean anything from a large organization championing for social causes to a lone person doing community development. While both of those are important and valuable this is a resource geared towards people interested in the organizational side of things.
@@ -147,9 +147,9 @@ A: To provide resources for people to dive into the world of social enterprises.
 
 ## Contributing
 
-If you have some resources you think would be a good fit please let me know. You can reach out to me on twitter here or open an issue on this repo. Please focus on resources you believe are relevant to social enterprises.
+If you have some resources you think would be a good fit please let me know. You can reach out to me on [Twitter](https://twitter.com/RayScript) or open an issue on this repo. Please focus on resources you believe are relevant to social enterprises.
 
 
 ## Todo
 * Make a PR to get added to awesome repo [here](https://github.com/sindresorhus/awesome#business)
-* Read related books and articles before adding them here
+* Read related books and articles before adding them
