@@ -1,16 +1,15 @@
 # Awesome Social Enterprise [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 📗Resources to dive into the world of social enterprises 🌼 
 
-A curated list of resources about 🌼social enterprises🌼
+> A social enterprise is an organization that is both primarily **focused on social impact** and at least partially **self-funded**.
 
-A social enterprise is an organization that is both primarily **focused on social impact** and at least partially **self-funded**.
-
-The goal of this repo is to provide an exhausted list of resources for people who would like to dive into the world of social enterprises. Wikipedia is a great place to get started learning about the concept but not meant to be a directory of related resources.
 
 <details>
   <summary>Rant on why I made this</summary>
   
-  When I was at Eckerd College I repeatedly bumped into the concept of social enterprises. First, in a course called _Technology, Society, and The Environment_, then through meeting the CTO of a social enterprise, and finally by taking a course called _Social Entrepreneurship_. Each step along the way I fell more in love with the concept of social enterprises. However, I never felt like there was an easy way to connect to the world of social enterprises. Eventually, I set a Google news alert for weekly digests of anything related to "social entrepreneurs." That worked okay but I still felt like I was missing out on something. Fast-forward a few years and I find myself heavily involved in a nonprofit called [hackNY](https://hackny.org/), working at The New York Times, and having a stronger urge than ever to learn about social enterprises. As such, I've started compiling this list of resources to make it easy for people to connect with the world of social enterprises. See the FAQs at the bottom for some common questions.
+  When I was at Eckerd College I repeatedly bumped into the concept of social enterprises. First, in a course called _Technology, Society, and The Environment_, then through meeting the CTO of a social enterprise, and finally by taking a course called _Social Entrepreneurship_. Each step along the way I fell more in love with the concept of social enterprises. However, I never felt like there was an easy way to connect to the world of social enterprises. 
+  
+  Eventually, I set a Google news alert for weekly digests of anything related to "social entrepreneurs." That worked okay but I still felt like I was missing out on something. Fast-forward a few years and I find myself heavily involved in a nonprofit called [hackNY](https://hackny.org/), working at The New York Times, and having a stronger urge than ever to learn about social enterprises. As such, I've started compiling this list of resources to make it easy for people to connect with the world of social enterprises. See the FAQs at the bottom for some common questions.
   
 </details>
 
@@ -136,8 +135,11 @@ A: I want to focus on the organizational structure rather than the individuals w
 Q: How is a social enterprise different from a nonprofit?  
 A: A social enterprise may be a nonprofit. While nonprofits are usually focused on social impact they may not be generating any revenue to fund themselves.
 
-Q: Why not just add this info to Wikipedia?
+Q: Why not just add this info to Wikipedia?  
 A: Wikipedia is meant to contain information that's encyclopedic in nature. Meaning, it should contain the most important and verified information in a well summarized form. This document is much more like a phone book trying to link out to relative resources that are useful.
+
+Q: What is the goal of this repo?  
+A: To provide resources for people to dive into the world of social enterprises. To get people excited about social enterprises. To spread the word of social enterprises.
 
 ## Contributing
 
