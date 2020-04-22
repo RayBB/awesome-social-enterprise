@@ -130,7 +130,7 @@ Not all of these accounts are specific to social enterprises but will help you g
 ## FAQs ❓
 
 Q: What do you like about social enterprises?  
-A: I love the idea of bringing the goodness of nonprofits and the efficiency of business together. I wouldn't say that all nonprofits are inefficient or that no businesses are good. However, there is something to be said for applying intense business tactics to maximize social impact.
+A: I love the idea of bringing the goodness of nonprofits and the efficiency of business together. I wouldn't say that all nonprofits are inefficient or that no businesses are good. However, there is something to be said for applying intense business tactics to maximize social impact. 
 
 Q: Why social enterprise instead of social entrepreneurship?  
 A: I want to focus on the organizational structure rather than the individuals within an organization. Social entrepreneurship can mean anything from a large organization championing for social causes to a lone person doing community development. While both of those are important and valuable this is a resource geared towards people interested in the organizational side of things.
