@@ -14,7 +14,6 @@
 </details>
 
 ## Wikipedia Links 🔗
-
 Wikipedia is a great place to explore and find related topics.
 
 * [Social enterprise](https://en.wikipedia.org/wiki/Social_enterprise)
@@ -25,8 +24,7 @@ Wikipedia is a great place to explore and find related topics.
 * [Category:Social entrepreneurship](https://en.wikipedia.org/wiki/Category:Social_entrepreneurship)
  
 
- ## News 📰
-
+## News 📰
 ### Finding Articles
 * Harvard Business Review [articles tagged "social enterprise"](https://hbr.org/topic/social-enterprise)
 * Stanford Social Innovation Review [articles tagged "social enterprise"](https://ssir.org/topics/category/social_enterprise#)
@@ -53,7 +51,6 @@ https://socialent.org/documents/EVOLUTIONOFTHESOCIALENTERPRISEINDUSTRY--ACHRONOL
     - A history of social enterprises from from UK perspective
 
 ## Books 📚
-
 | Title | Author | Year | Notes |
 |-------|--------|------|-------|
 |Social Entrepreneurship: What Everyone Needs To Know|David Bornstein|2010| Great introduction to social entrepreneurship. Short and sweet with lots of great answers to common questions. |
@@ -76,12 +73,12 @@ Coursera
 
 ## Videos 📽️
 * [Muhammad Yunus’s Nobel Prize Speech](https://www.nobelprize.org/prizes/peace/2006/yunus/lecture/) — Yunus built Grameen Bank, the poster child for social enterprises.
+* [Social Enterprise 101](https://www.youtube.com/watch?v=9_g5RqwW51I)
 * [How social entrepreneurship will change the world | Erica Wenger | TEDxUSC](https://www.youtube.com/watch?v=KrQuGTvwl0s)
 
 ## Communities 🤝
 
 ### Online 
-
 * Reddit    
     * [Socialpreneur](https://www.reddit.com/r/Socialpreneur/) - 5k members  
 * Facebook  
@@ -90,7 +87,6 @@ Coursera
     * [Social Entrepreneurship](https://www.quora.com/topic/Social-Entrepreneurship) - 375k followers, great for asking questions
 
 ### Conferences
-
 * [Harvard Social Enterprise Conference](http://socialenterpriseconference.org)
 
 ### Finding Local Communities
@@ -98,11 +94,17 @@ Coursera
 * [eventbrite](https://www.eventbrite.com/)
 * [SEA Chapters](https://socialenterprise.us/programs/chapter-directory/)
 
-### Advocates
-
+### Networks
+* [senco](https://senco.io/home/) (social enterprise network of central ontario) - A great org promoting social enterprises across Canada.
 * [Social Enterprise Alliance](https://socialenterprise.us/) - US social enterprise advocates  
-* [senco](https://senco.io/home/) (social enterprise network of central ontario)
 
+### Foundations
+* [Skoll Foundation](https://en.wikipedia.org/wiki/Skoll_Foundation)
+* [Schwab Foundation for Social Entrepreneurship](https://en.wikipedia.org/wiki/Schwab_Foundation_for_Social_Entrepreneurship)
+
+### Consultants
+* [CSED](https://csedottawa.ca) - Canada based nonprofit helping develop, launch, and grow social enterprises
+* [Common Good Solutions](https://commongoodsolutions.ca) - Canada based B-corp focused on helping governments, community organizations and entrepreneurs.
 
 ## People 🧑
 
@@ -114,7 +116,6 @@ Coursera
 * [Muhammad Yunus](https://en.wikipedia.org/wiki/Muhammad_Yunus) - Nobel Prize winner, founder of Grameen Bank, considered father of social enterprise
 
 ### Twitter Accounts 🐦
-
 Not all of these accounts are specific to social enterprises but will help you get connected to the Twitter sphere of social impact folks.
 
 * [Ken Banks](https://twitter.com/kiwanja) - Founder of Kiwanja
@@ -125,10 +126,10 @@ Not all of these accounts are specific to social enterprises but will help you g
 * [Social Good News](https://twitter.com/mysocialgood)
 * [HBS SocialEnterprise](https://twitter.com/HBSSEI)
 * [Social Enterprise Alliance](https://twitter.com/SEAlliance)
+* [senco](https://twitter.com/senco_io)
 
 
 ## FAQs ❓
-
 Q: What do you like about social enterprises?  
 A: I love the idea of bringing the goodness of nonprofits and the efficiency of business together. I wouldn't say that all nonprofits are inefficient or that no businesses are good. However, there is something to be said for applying intense business tactics to maximize social impact. 
 
