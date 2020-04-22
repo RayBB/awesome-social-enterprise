@@ -129,9 +129,13 @@ Not all of these accounts are specific to social enterprises but will help you g
 * [senco](https://twitter.com/senco_io)
 
 
-## FAQs ❓
+## FAQs ❓  
+
+Q: What is the goal of this repo?  
+A: To provide resources for people to dive into the world of social enterprises. To get people excited about social enterprises. To spread the word of social enterprises.
+
 Q: What do you like about social enterprises?  
-A: I love the idea of bringing the goodness of nonprofits and the efficiency of business together. I wouldn't say that all nonprofits are inefficient or that no businesses are good. However, there is something to be said for applying business tactics to maximize social impact. The idea of having some organizations  
+A: I love the idea of bringing the goodness of nonprofits and the efficiency of business together. Not all nonprofits are inefficient and not all businesses are bad. However, the potential of unleashing the notoriously efficient business practices to maximize social impact is what I want to encourage people to explore.
 
 Q: Why social enterprise instead of social entrepreneurship?  
 A: I want to focus on the organizational structure rather than the individuals within an organization. Social entrepreneurship can mean anything from a large organization championing for social causes to a lone person doing community development. While both of those are important and valuable this is a resource geared towards people interested in the organizational side of things.
@@ -139,11 +143,9 @@ A: I want to focus on the organizational structure rather than the individuals w
 Q: How is a social enterprise different from a nonprofit?  
 A: A social enterprise may be a nonprofit. While nonprofits are usually focused on social impact they may not be generating any revenue to fund themselves.
 
-Q: Why not just add this info to Wikipedia?  
+Q: Why not just add this information to Wikipedia?  
 A: Wikipedia is meant to contain information that's encyclopedic in nature. Meaning, it should contain the most important and verified information in a well summarized form. This document is much more like a phone book trying to link out to relative resources that are useful.
 
-Q: What is the goal of this repo?  
-A: To provide resources for people to dive into the world of social enterprises. To get people excited about social enterprises. To spread the word of social enterprises.
 
 ## Contributing
 
@@ -151,5 +153,5 @@ If you have some resources you think would be a good fit please let me know. You
 
 
 ## Todo
-* Make a PR to get added to awesome repo [here](https://github.com/sindresorhus/awesome#business)
+* Request to be included in list of awesome repos [here](https://github.com/sindresorhus/awesome#business)
 * Read related books and articles before adding them
