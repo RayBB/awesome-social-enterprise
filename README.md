@@ -62,12 +62,16 @@ https://socialent.org/documents/EVOLUTIONOFTHESOCIALENTERPRISEINDUSTRY--ACHRONOL
 Future Learn
 * [Social Enterprise Program](https://www.futurelearn.com/programs/social-enterprise)
     * By Middlesex University Business School & Jindal Centre for Social Innovation + Entrepreneurship program 
-    * Free, three courses, 9 weeks total.
-    * According to [this](https://doi.org/10.3390/su12083247) paper, the courses were quite impactful and helped start many social enterprises.
+    * Free, three courses, 9 weeks total
+    * According to [this](https://doi.org/10.3390/su12083247) paper, the courses were quite impactful and helped start many social enterprises
 
 [Philanthropy University](https://courses.philanthropyu.org/courses) | [Interview with CEO](https://iblnews.org/philanthropy-universitys-connor-diemand-yauman/) | [Origins](https://www.nytimes.com/2015/10/17/your-money/online-university-helps-philanthropic-groups-and-their-leaders.html)  
 
 * Several free courses such as: _Introduction to Fundraising_, _Fundraising Strategies_, _and Setting Up a Nonprofit Board_
+
+edX   
+* [Business and Impact Planning for Social Enterprises](https://www.edx.org/course/business-and-impact-planning-for-social-enterprise) by MIT
+* [Disciplined Approach to Social Entrepreneurship](https://www.edx.org/course/disciplined-approach-to-social-entrepreneurship) by Curtin University
 
 Coursera  
 * [Social Entrepreneurship](https://www.coursera.org/learn/wharton-social-entrepreneurship) by Wharton Business School - One course, approximately 9 hours of work
@@ -83,15 +87,16 @@ List of academic institutions doing research about social enterprises. List is i
 * [Jindal Centre for Social Innovation + Entrepreneurship program](https://www.jsie.in/)
 * [Wharton Social Entrepreneurship](https://entrepreneurship.wharton.upenn.edu/wharton-social-entrepreneurship/)
 * [Copenhagen Business School Social Entrepreneurship](https://www.cbs.dk/en/knowledge-society/interdisciplinary-initiatives/entrepreneurship/organization/clusters/social-entrepreneurship)
+* [USC Marshall Masters in Social Entrepreneurship](https://www.marshall.usc.edu/programs/specialized-masters-programs/master-science-social-entrepreneurship/)
 
 
 ## Tools 🔨
 * [GuideStar](https://www.guidestar.org) - Reporting on U.S. nonprofit companies
 * [ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/) - Easily access any U.S. nonprofit's tax documents
-* [Social Bearing](https://socialbearing.com/search/user) - Useful to determine how popular/active any Twitter account is.
+* [Social Bearing](https://socialbearing.com/search/user) - Useful to determine how popular/active any Twitter account is
 
 ## Videos 📽️
-* [Social Entrepreneurs: Pioneering Social Change](https://www.youtube.com/watch?v=jk5LI_WcosQ) - Skoll foundation video about social entrepreneurs.
+* [Social Entrepreneurs: Pioneering Social Change](https://www.youtube.com/watch?v=jk5LI_WcosQ) - Skoll Foundation video about social entrepreneurs.
 * [Muhammad Yunus’s Nobel Prize Speech](https://www.nobelprize.org/prizes/peace/2006/yunus/lecture/) — Yunus built Grameen Bank, the poster child for social enterprises.
 * [Social Enterprise 101](https://www.youtube.com/watch?v=9_g5RqwW51I)
 * [How social entrepreneurship will change the world | Erica Wenger | TEDxUSC](https://www.youtube.com/watch?v=KrQuGTvwl0s)
