@@ -73,6 +73,9 @@ Coursera
 * [Social Entrepreneurship](https://www.coursera.org/learn/wharton-social-entrepreneurship) by Wharton Business School - One course, approximately 9 hours of work
 * [Social Entrepreneurship Specialization](https://www.coursera.org/specializations/social-entrepreneurship-cbs) by Copenhagen Business School - Three courses to complete over 4 months
 
+## Fellowships
+* [Year Here](https://yearhere.org/) - 1 year social enterprise fellowship to build an organization based in London.
+
 ## Institutions 🏫
 List of academic institutions doing research about social enterprises. List is in no particular order at the moment.
 
@@ -144,6 +147,7 @@ Not all of these accounts are specific to social enterprises but will help you g
 * [Social Enterprise Alliance](https://twitter.com/SEAlliance)
 * [senco](https://twitter.com/senco_io)
 * [Pioneers Post](https://twitter.com/PioneersPost)
+* [Year Here](https://twitter.com/yearhere)
 
 
 ## FAQs ❓  
