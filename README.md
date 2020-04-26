@@ -58,6 +58,12 @@ https://socialent.org/documents/EVOLUTIONOFTHESOCIALENTERPRISEINDUSTRY--ACHRONOL
 
 
 ## Courses 🎓
+Future Learn
+* [Social Enterprise Program](https://www.futurelearn.com/programs/social-enterprise)
+    * By Middlesex University Business School & Jindal Centre for Social Innovation + Entrepreneurship program 
+    * Free, three courses, 9 weeks total.
+    * According to [this](https://doi.org/10.3390/su12083247) paper, the courses were quite impactful and helped start many social enterprises.
+
 [Philanthropy University](https://courses.philanthropyu.org/courses) | [Interview with CEO](https://iblnews.org/philanthropy-universitys-connor-diemand-yauman/) | [Origins](https://www.nytimes.com/2015/10/17/your-money/online-university-helps-philanthropic-groups-and-their-leaders.html)  
 
 * Several free courses such as: _Introduction to Fundraising_, _Fundraising Strategies_, _and Setting Up a Nonprofit Board_
@@ -65,6 +71,14 @@ https://socialent.org/documents/EVOLUTIONOFTHESOCIALENTERPRISEINDUSTRY--ACHRONOL
 Coursera  
 * [Social Entrepreneurship](https://www.coursera.org/learn/wharton-social-entrepreneurship) by Wharton Business School - One course, approximately 9 hours of work
 * [Social Entrepreneurship Specialization](https://www.coursera.org/specializations/social-entrepreneurship-cbs) by Copenhagen Business School - Three courses to complete over 4 months
+
+## Institutions 🏫
+List of academic institutions doing research about social enterprises. List is in no particular order at the moment.
+
+* [Middlesex University Business School](https://www.mdx.ac.uk/our-research/centres/ceedr/social-enterprise)
+* [Jindal Centre for Social Innovation + Entrepreneurship program](https://www.jsie.in/)
+* [Wharton Social Entrepreneurship](https://entrepreneurship.wharton.upenn.edu/wharton-social-entrepreneurship/)
+* [Copenhagen Business School Social Entrepreneurship](https://www.cbs.dk/en/knowledge-society/interdisciplinary-initiatives/entrepreneurship/organization/clusters/social-entrepreneurship)
 
 
 ## Tools 🔨
