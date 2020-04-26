@@ -26,6 +26,7 @@ Wikipedia is a great place to explore and find related topics.
 
 ## News 📰
 ### Finding Articles
+* [Pioneers Post](https://www.pioneerspost.com/) - The Social Enterprise Magazine
 * Harvard Business Review [articles tagged "social enterprise"](https://hbr.org/topic/social-enterprise)
 * Stanford Social Innovation Review [articles tagged "social enterprise"](https://ssir.org/topics/category/social_enterprise#)
 * [The Schwab Foundation for Social Entrepreneurship](https://www.weforum.org/communities/schwab-foundation-for-social-entrepreneurship/articles)
@@ -84,6 +85,7 @@ List of academic institutions doing research about social enterprises. List is i
 ## Tools 🔨
 * [GuideStar](https://www.guidestar.org) - Reporting on U.S. nonprofit companies
 * [ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/) - Easily access any U.S. nonprofit's tax documents
+* [Social Bearing](https://socialbearing.com/search/user) - Useful to determine how popular/active any Twitter account is.
 
 ## Videos 📽️
 * [Muhammad Yunus’s Nobel Prize Speech](https://www.nobelprize.org/prizes/peace/2006/yunus/lecture/) — Yunus built Grameen Bank, the poster child for social enterprises.
@@ -141,6 +143,7 @@ Not all of these accounts are specific to social enterprises but will help you g
 * [HBS SocialEnterprise](https://twitter.com/HBSSEI)
 * [Social Enterprise Alliance](https://twitter.com/SEAlliance)
 * [senco](https://twitter.com/senco_io)
+* [Pioneers Post](https://twitter.com/PioneersPost)
 
 
 ## FAQs ❓  
