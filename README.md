@@ -126,6 +126,7 @@ List of academic institutions doing research about social enterprises. List is i
 ### Foundations
 * [Skoll Foundation](https://en.wikipedia.org/wiki/Skoll_Foundation)
 * [Schwab Foundation for Social Entrepreneurship](https://en.wikipedia.org/wiki/Schwab_Foundation_for_Social_Entrepreneurship)
+* [The Audacious Project](https://audaciousproject.org/) - A TED project funding social entrepreneurs and nonprofits
 
 ### Consultants
 * [CSED](https://csedottawa.ca) - Canada based nonprofit helping develop, launch, and grow social enterprises
@@ -154,6 +155,7 @@ Not all of these accounts are specific to social enterprises but will help you g
 * [senco](https://twitter.com/senco_io)
 * [Pioneers Post](https://twitter.com/PioneersPost)
 * [Year Here](https://twitter.com/yearhere)
+* [The Audacious Project](https://twitter.com/theaudaciousprj)
 
 
 ## FAQs ❓  
