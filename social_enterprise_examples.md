@@ -1,7 +1,7 @@
 # Example Social Enterprises
 
 * [Simprints](https://www.simprints.com/) - Creates fingerprint technology to help distribute aid in developing countries where people often lack proof of legal identity.
-* [Buy Social Canada](https://www.buysocialcanada.com) -  {romotes social procurement by bringing socially driven purchasers and social enterprise suppliers together.
+* [Buy Social Canada](https://www.buysocialcanada.com) -  Promotes social procurement by bringing socially driven purchasers and social enterprise suppliers together.
 * [EMBERS Staffing Solutions](https://www.embersvancouver.com/) - Creates economic and employment opportunities for people living on low incomes.
 * [Commongood Linens](https://cmngd.com/) - Employs people facing poverty through a sustainable commercial laundry service.
 * [Twenty One Toys](https://twentyonetoys.com/) -  Teaches empathy, failure, and other key 21st century skills using toys and playful workshops.

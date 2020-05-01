@@ -79,8 +79,12 @@ Coursera
 * [Social Entrepreneurship](https://www.coursera.org/learn/wharton-social-entrepreneurship) by Wharton Business School - One course, approximately 9 hours of work
 * [Social Entrepreneurship Specialization](https://www.coursera.org/specializations/social-entrepreneurship-cbs) by Copenhagen Business School - Three courses to complete over 4 months
 
+[Acumen Academy](https://acumenacademy.org/learn)
+* Offering several free and paid courses aimed at helping individuals create social change.
+
 ## Fellowships
-* [Year Here](https://yearhere.org/) - 1 year social enterprise fellowship to build an organization based in London.
+* [Year Here](https://yearhere.org/) - 1 year social enterprise fellowship to build an organization based in London
+* [Acumen Academy Fellowship](https://acumenacademy.org/fellowship) - 1 year fellowship with the goal of equipping individuals with the tools to tackle issues in their communities
 
 ## Institutions 🏫
 List of academic institutions doing research about social enterprises. List is in no particular order at the moment.
@@ -98,8 +102,8 @@ List of academic institutions doing research about social enterprises. List is i
 * [Social Bearing](https://socialbearing.com/search/user) - Useful to determine how popular/active any Twitter account is
 
 ## Videos 📽
-* [Social Entrepreneurs: Pioneering Social Change](https://www.youtube.com/watch?v=jk5LI_WcosQ) - Skoll Foundation video about social entrepreneurs.
-* [Muhammad Yunus’s Nobel Prize Speech](https://www.nobelprize.org/prizes/peace/2006/yunus/lecture/) — Yunus built Grameen Bank, the poster child for social enterprises.
+* [Social Entrepreneurs: Pioneering Social Change](https://www.youtube.com/watch?v=jk5LI_WcosQ) - Skoll Foundation video about social entrepreneurs
+* [Muhammad Yunus’s Nobel Prize Speech](https://www.nobelprize.org/prizes/peace/2006/yunus/lecture/) — Yunus built Grameen Bank, the poster child for social enterprises
 * [Social Enterprise 101](https://www.youtube.com/watch?v=9_g5RqwW51I)
 * [How social entrepreneurship will change the world | Erica Wenger | TEDxUSC](https://www.youtube.com/watch?v=KrQuGTvwl0s)
 
@@ -150,7 +154,9 @@ List of academic institutions doing research about social enterprises. List is i
 * [Muhammad Yunus](https://en.wikipedia.org/wiki/Muhammad_Yunus) - Nobel Prize winner, founder of Grameen Bank, considered father of social enterprise
 
 ### Twitter Accounts 🐦
-Not all of these accounts are specific to social enterprises but will help you get connected to the Twitter sphere of social impact folks.
+Not all of these accounts are specific to social enterprises but will help you get connected to the Twitter sphere of social impact folks. 
+
+See a feed of all these accounts by following my "Social Enterprise News" Twitter list [here](https://twitter.com/i/lists/1256292945243918336).
 
 * [Ken Banks](https://twitter.com/kiwanja) - Founder of Kiwanja
 * [Tech Jobs for Good](https://twitter.com/techjobsforgood) - Posts about tech jobs with social impact 
@@ -166,7 +172,9 @@ Not all of these accounts are specific to social enterprises but will help you g
 * [The Audacious Project](https://twitter.com/theaudaciousprj)
 * [enactus](https://twitter.com/enactus)
 * [Impact Boom](https://twitter.com/ImpactBoomOrg)
+* [Acumen](https://twitter.com/Acumen)
 
+## [Social Enterprise Examples](/social_enterprise_examples.md)
 
 ## FAQs ❓  
 
