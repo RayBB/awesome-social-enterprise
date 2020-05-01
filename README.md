@@ -95,11 +95,16 @@ List of academic institutions doing research about social enterprises. List is i
 * [ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/) - Easily access any U.S. nonprofit's tax documents
 * [Social Bearing](https://socialbearing.com/search/user) - Useful to determine how popular/active any Twitter account is
 
-## Videos 📽️
+## Videos 📽
 * [Social Entrepreneurs: Pioneering Social Change](https://www.youtube.com/watch?v=jk5LI_WcosQ) - Skoll Foundation video about social entrepreneurs.
 * [Muhammad Yunus’s Nobel Prize Speech](https://www.nobelprize.org/prizes/peace/2006/yunus/lecture/) — Yunus built Grameen Bank, the poster child for social enterprises.
 * [Social Enterprise 101](https://www.youtube.com/watch?v=9_g5RqwW51I)
 * [How social entrepreneurship will change the world | Erica Wenger | TEDxUSC](https://www.youtube.com/watch?v=KrQuGTvwl0s)
+
+## Movies 🎥
+| Title | Year | Notes |
+|-------|------|-------|
+| The Social Shift | 2018 | Four young adults travel across Canada interviewing social entrepreneurs  |
 
 ## Communities 🤝
 
