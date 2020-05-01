@@ -27,6 +27,7 @@ Wikipedia is a great place to explore and find related topics.
 ## News 📰
 ### Finding Articles
 * [Pioneers Post](https://www.pioneerspost.com/) - The Social Enterprise Magazine
+* [Impact Boom](https://www.impactboom.org/blog) - Social impact blog and podcast
 * Harvard Business Review [articles tagged "social enterprise"](https://hbr.org/topic/social-enterprise)
 * Stanford Social Innovation Review [articles tagged "social enterprise"](https://ssir.org/topics/category/social_enterprise#)
 * [The Schwab Foundation for Social Entrepreneurship](https://www.weforum.org/communities/schwab-foundation-for-social-entrepreneurship/articles)
@@ -37,6 +38,7 @@ Wikipedia is a great place to explore and find related topics.
 
 ### Articles
 * [State of Social Entrepreneurship 2020](https://echoinggreen.org/news/state-of-social-entrepreneurship-2020/) by Echoing Green
+* [90+ Inspiring Books For Impact-Driven Doers and Entrepreneurs](https://www.impactboom.org/blog/2020/1/10/90-inspiring-books-for-impact-driven-doers-and-social-entrepreneurs)
 
 ## Papers 📃
 * (1998) _The Meaning of "Social Entrepreneurship"_ by J. Gregory Dees
@@ -112,7 +114,7 @@ List of academic institutions doing research about social enterprises. List is i
 * Reddit    
     * [Socialpreneur](https://www.reddit.com/r/Socialpreneur/) - 5k members  
 * Facebook  
-    * [Social Entrepreneurs](https://www.facebook.com/groups/socentnet/) -  2k members
+    * [Social Entrepreneurs](https://www.facebook.com/groups/socentnet/) - 2k members
 * Quora
     * [Social Entrepreneurship](https://www.quora.com/topic/Social-Entrepreneurship) - 375k followers, great for asking questions
 
@@ -125,8 +127,9 @@ List of academic institutions doing research about social enterprises. List is i
 * [SEA Chapters](https://socialenterprise.us/programs/chapter-directory/)
 
 ### Networks
-* [senco](https://senco.io/home/) (social enterprise network of central ontario) - A great org promoting social enterprises across Canada.
+* [senco](https://senco.io/home/) (social enterprise network of central ontario) - Promoting social enterprises across Canada.
 * [Social Enterprise Alliance](https://socialenterprise.us/) - US social enterprise advocates  
+* [enactus](https://enactus.org/) - Worldwide organization fostering student social entrepreneurs
 
 ### Foundations
 * [Skoll Foundation](https://en.wikipedia.org/wiki/Skoll_Foundation)
@@ -161,6 +164,8 @@ Not all of these accounts are specific to social enterprises but will help you g
 * [Pioneers Post](https://twitter.com/PioneersPost)
 * [Year Here](https://twitter.com/yearhere)
 * [The Audacious Project](https://twitter.com/theaudaciousprj)
+* [enactus](https://twitter.com/enactus)
+* [Impact Boom](https://twitter.com/ImpactBoomOrg)
 
 
 ## FAQs ❓  
