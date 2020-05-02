@@ -121,9 +121,13 @@ List of academic institutions doing research about social enterprises. List is i
     * [Social Entrepreneurs](https://www.facebook.com/groups/socentnet/) - 2k members
 * Quora
     * [Social Entrepreneurship](https://www.quora.com/topic/Social-Entrepreneurship) - 375k followers, great for asking questions
+* United States Association for Small Business and Entrepreneurship (USASBE)
+    * [Social Entrepreneurship](https://www.usasbe.org/group/Social) - Focused on social entrepreneurship education
 
 ### Conferences
+* [Skoll World Forum](https://skoll.org/skoll-world-forum/)
 * [Harvard Social Enterprise Conference](http://socialenterpriseconference.org)
+* [Indiana University Social Entrepreneurship Conference](https://kelley.iu.edu/news-events/events/bloomington/social-entrepreneurship-conference-2019/index.cshtml)
 
 ### Finding Local Communities
 * [Meetup](https://www.meetup.com/)
@@ -131,7 +135,7 @@ List of academic institutions doing research about social enterprises. List is i
 * [SEA Chapters](https://socialenterprise.us/programs/chapter-directory/)
 
 ### Networks
-* [senco](https://senco.io/home/) (social enterprise network of central ontario) - Promoting social enterprises across Canada.
+* [senco](https://senco.io/home/) (social enterprise network of central ontario) - Promoting social enterprises across Canada
 * [Social Enterprise Alliance](https://socialenterprise.us/) - US social enterprise advocates  
 * [enactus](https://enactus.org/) - Worldwide organization fostering student social entrepreneurs
 
@@ -175,6 +179,11 @@ See a feed of all these accounts by following my "Social Enterprise News" Twitte
 * [Acumen](https://twitter.com/Acumen)
 
 ## [Social Enterprise Examples](/social_enterprise_examples.md)
+
+## Miscellaneous 
+* [WorldShapers](https://worldshapers.net/) - An abundance of resources related to social entrepreneurship education
+* [Benefit Corporation](https://en.wikipedia.org/wiki/Benefit_corporation) - A type of for-profit corporate entity, authorized by 35 U.S. states
+* [B Corp Certification](https://en.wikipedia.org/wiki/B_Corporation_(certification)) - Certificate issued for existing for profit organizations demonstrating social responsibility
 
 ## FAQs ❓  
 
