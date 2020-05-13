@@ -110,7 +110,8 @@ List of academic institutions doing research about social enterprises. List is i
 ## Movies 🎥
 | Title | Year | Notes |
 |-------|------|-------|
-| The Social Shift | 2018 | Four young adults travel across Canada interviewing social entrepreneurs  |
+| The Social Shift | 2018 | Four young adults travel across Canada interviewing social entrepreneurs |
+| The New Breed | 2020 | Follows three change-makers as they build social enterprises |
 
 ## Communities 🤝
 
