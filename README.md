@@ -38,6 +38,7 @@ Wikipedia is a great place to explore and find related topics.
 
 ### Articles
 * [State of Social Entrepreneurship 2020](https://echoinggreen.org/news/state-of-social-entrepreneurship-2020/) by Echoing Green
+    * [Echoing Green 2020 Fellows](https://echoinggreen.org/news/2020-fellows/)
 * [90+ Inspiring Books For Impact-Driven Doers and Entrepreneurs](https://www.impactboom.org/blog/2020/1/10/90-inspiring-books-for-impact-driven-doers-and-social-entrepreneurs)
 
 ## Papers 📃
