@@ -137,10 +137,11 @@ List of academic institutions doing research about social enterprises. List is i
 * [SEA Chapters](https://socialenterprise.us/programs/chapter-directory/)
 
 ### Networks
-* [senco](https://senco.io/home/) (social enterprise network of central ontario) - Promoting social enterprises across Canada
+* [senco](https://senco.io/home/) (social enterprise network of central ontario) - Canada group promoting social enterprises
 * [Social Enterprise Alliance](https://socialenterprise.us/) - US social enterprise advocates  
 * [enactus](https://enactus.org/) - Worldwide organization fostering student social entrepreneurs
 * [Buy Good. Feel Good.](https://buygoodfeelgood.com/) - North American expo dedicated to brands that are changing the world
+* [SocialVentures](https://socialventurescbus.com/) - Ohio nonprofit to advocate for, develop, and fund businesses that solve social problems
 
 ### Foundations
 * [Skoll Foundation](https://en.wikipedia.org/wiki/Skoll_Foundation)
