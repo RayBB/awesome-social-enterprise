@@ -201,7 +201,6 @@ See a feed of all these accounts by following my "Social Enterprise News" Twitte
 * [Acumen](https://twitter.com/Acumen)
 
 ## [Social Enterprise Examples](social_enterprise_examples.md)
-This is moved to its own page because it has the potential to get quite large.
 
 ## Miscellaneous 
 * [WorldShapers](https://worldshapers.net/) - An abundance of resources related to social entrepreneurship education
