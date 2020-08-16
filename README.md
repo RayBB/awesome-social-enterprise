@@ -45,13 +45,13 @@ Wikipedia is a great place to explore and find related topics.
 #### Finding Articles
 * [Pioneers Post](https://www.pioneerspost.com/) - The Social Enterprise Magazine
 * [Impact Boom](https://www.impactboom.org/blog) - Social impact blog and podcast
-* Harvard Business Review [articles tagged "social enterprise"](https://hbr.org/topic/social-enterprise)
-* Stanford Social Innovation Review [articles tagged "social enterprise"](https://ssir.org/topics/category/social_enterprise#)
-* [The Schwab Foundation for Social Entrepreneurship](https://www.weforum.org/communities/schwab-foundation-for-social-entrepreneurship/articles)
-* Top Medium posts about [Social Enterprise](https://medium.com/tag/social-enterprise/archive) and [Social Entrepreneurship](https://medium.com/tag/social-entrepreneurship/archive)
+* Harvard Business Review - [Articles tagged "social enterprise"](https://hbr.org/topic/social-enterprise) are infrequent but high quality
+* Stanford Social Innovation Review - Great publication with many articles tagged [social enterprise](https://ssir.org/topics/category/social_enterprise#)
+* [The Schwab Foundation for Social Entrepreneurship](https://www.weforum.org/communities/schwab-foundation-for-social-entrepreneurship/articles) - Content about the foundation's activities and opportunities
+* Medium - Content from all around about [social enterprise](https://medium.com/tag/social-enterprise/archive) and [social entrepreneurship](https://medium.com/tag/social-entrepreneurship/archive)
 * Galileo Impact Stories | [YouTube](https://www.youtube.com/channel/UCtpwKxUCqGfHPKSqYKgfphw) | [Kickstarter](https://www.kickstarter.com/projects/baurens/pro-russia) | [Website](https://iiic.ch/)  
   * A small but growing organization dedicated to covering impact investing. Content is often Russia oriented and not always directly about social enterprises but much of the content is relative. [Here](https://youtu.be/Pzxz38AnXCc) is a video summarizing their work in 2019.
-* [Journal of Social Entrepreneurship](https://www.tandfonline.com/toc/rjse20/current)
+* [Journal of Social Entrepreneurship](https://www.tandfonline.com/toc/rjse20/current) - _The_ academic journal for the topic
 
 #### Articles
 * [State of Social Entrepreneurship 2020](https://echoinggreen.org/news/state-of-social-entrepreneurship-2020/) by Echoing Green
@@ -73,7 +73,7 @@ Wikipedia is a great place to explore and find related topics.
 ### Books 📚
 | Title | Author | Year | Notes |
 |-------|--------|------|-------|
-| Social Entrepreneurship: What Everyone Needs To Know | David Bornstein | 2010 | Great introduction to social entrepreneurship. Short and sweet with lots of great answers to common questions. |
+| Social Entrepreneurship: What Everyone Needs To Know | David Bornstein | 2010 | Great introduction to social entrepreneurship. Short and sweet with lots of great answers to common questions |
 |       |        |      |       |
 
 
@@ -97,14 +97,14 @@ Coursera
 * [Social Entrepreneurship Specialization](https://www.coursera.org/specializations/social-entrepreneurship-cbs) by Copenhagen Business School - Three courses to complete over 4 months
 
 [Acumen Academy](https://acumenacademy.org/learn)
-* Offering several free and paid courses aimed at helping individuals create social change.
+* Offering several free and paid courses aimed at helping individuals create social change
 
 ## Fellowships
 * [Year Here](https://yearhere.org/) - 1 year social enterprise fellowship to build an organization based in London
 * [Acumen Academy Fellowship](https://acumenacademy.org/fellowship) - 1 year fellowship with the goal of equipping individuals with the tools to tackle issues in their communities
 
 ## Institutions 🏫
-List of academic institutions doing research about social enterprises. List is in no particular order at the moment.
+List of academic institutions doing research about social enterprises.
 
 * [Middlesex University Business School](https://www.mdx.ac.uk/our-research/centres/ceedr/social-enterprise)
 * [Jindal Centre for Social Innovation + Entrepreneurship program](https://www.jsie.in/)
@@ -122,9 +122,9 @@ List of academic institutions doing research about social enterprises. List is i
 
 ### Videos 📽
 * [Social Entrepreneurs: Pioneering Social Change](https://www.youtube.com/watch?v=jk5LI_WcosQ) - Skoll Foundation video about social entrepreneurs
-* [Muhammad Yunus's Nobel Prize Speech](https://www.nobelprize.org/prizes/peace/2006/yunus/lecture/) — Yunus built Grameen Bank, the poster child for social enterprises
-* [Social Enterprise 101](https://www.youtube.com/watch?v=9_g5RqwW51I)
-* [How social entrepreneurship will change the world | Erica Wenger | TEDxUSC](https://www.youtube.com/watch?v=KrQuGTvwl0s)
+* [Muhammad Yunus's Nobel Prize Speech](https://www.nobelprize.org/prizes/peace/2006/yunus/lecture/) - Yunus built Grameen Bank, the poster child for social enterprises
+* [Social Enterprise 101](https://www.youtube.com/watch?v=9_g5RqwW51I) - Quick and easy overview oof social enterprise
+* [How social entrepreneurship will change the world](https://www.youtube.com/watch?v=KrQuGTvwl0s) - Inspiring TEDx talk by Erica Wenger about social enterprises
 
 ### Movies 🎥
 | Title | Year | Notes |
@@ -145,14 +145,14 @@ List of academic institutions doing research about social enterprises. List is i
   * [Social Entrepreneurship](https://www.usasbe.org/group/Social) - Focused on social entrepreneurship education
 
 ### Conferences
-* [Skoll World Forum](https://skoll.org/skoll-world-forum/)
-* [Harvard Social Enterprise Conference](http://socialenterpriseconference.org)
-* [Indiana University Social Entrepreneurship Conference](https://kelley.iu.edu/news-events/events/bloomington/social-entrepreneurship-conference-2019/index.cshtml)
+* [Skoll World Forum](https://skoll.org/skoll-world-forum/) - Large annual conference for Skull Foundation
+* [Harvard Social Enterprise Conference](http://socialenterpriseconference.org) - Student run annual social enterprise conference
+* [Indiana University Social Entrepreneurship Conference](https://kelley.iu.edu/news-events/events/bloomington/social-entrepreneurship-conference-2019/index.cshtml) - Two day conference focused on social entrepreneurship research
 
 ### Finding Local Communities
-* [Meetup](https://www.meetup.com/)
-* [Eventbrite](https://www.eventbrite.com/)
-* [SEA Chapters](https://socialenterprise.us/programs/chapter-directory/)
+* [SEA Chapters](https://socialenterprise.us/programs/chapter-directory/) - Groups all over US focused on social enterprises
+* [Meetup](https://www.meetup.com/) - Popular group meeting site 
+* [Eventbrite](https://www.eventbrite.com/) - Easy site for discovering events near you 
 
 ### Networks
 * [senco](https://senco.io/home/) (social enterprise network of central ontario) - Canada group promoting social enterprises
@@ -162,25 +162,24 @@ List of academic institutions doing research about social enterprises. List is i
 * [SocialVentures](https://socialventurescbus.com/) - Ohio nonprofit to advocate for, develop, and fund businesses that solve social problems
 
 ### Foundations
-* [Skoll Foundation](https://en.wikipedia.org/wiki/Skoll_Foundation)
-* [Schwab Foundation for Social Entrepreneurship](https://en.wikipedia.org/wiki/Schwab_Foundation_for_Social_Entrepreneurship)
+* [Skoll Foundation](https://en.wikipedia.org/wiki/Skoll_Foundation) - Large foundation investing in social entrepreneurs  
+* [Schwab Foundation for Social Entrepreneurship](https://en.wikipedia.org/wiki/Schwab_Foundation_for_Social_Entrepreneurship) - Advocates for social entrepreneurss on a global level 
 * [The Audacious Project](https://audaciousproject.org/) - A TED project funding social entrepreneurs and nonprofits
 
 ### Consultants
 * [CSED](https://csedottawa.ca) - Canada based nonprofit helping develop, launch, and grow social enterprises
-* [Common Good Solutions](https://commongoodsolutions.ca) - Canada based B-corp focused on helping governments, community organizations and entrepreneurs.
+* [Common Good Solutions](https://commongoodsolutions.ca) - Canada based B-corp helping governments, community organizations and entrepreneurs
 
 ## People 🧑
 
 ### Authors
-* [David Bornstein](https://en.wikipedia.org/wiki/David_Bornstein_(author))
-* [Susan Davis](https://en.wikipedia.org/wiki/Susan_Davis_(author))
+* [Susan Davis](https://en.wikipedia.org/wiki/Susan_Davis_(author)) - Co-authored books on on Social Enterprise and highly active in community
+* [David Bornstein](https://en.wikipedia.org/wiki/David_Bornstein_(author)) - Wrote several popular books on social entrepreneurship
 
 ### Social Entrepreneurs
 * [Muhammad Yunus](https://en.wikipedia.org/wiki/Muhammad_Yunus) - Nobel Prize winner, founder of Grameen Bank, considered father of social enterprise
 
-### Twitter Accounts 🐦
-Not all of these accounts are specific to social enterprises but will help you get connected to the Twitter sphere of social impact folks. 
+### Twitter Accounts 🐦 
 
 See a feed of all these accounts by following my "Social Enterprise News" Twitter list [here](https://twitter.com/i/lists/1256292945243918336).
 
@@ -228,7 +227,7 @@ A: Wikipedia is meant to contain information that's encyclopedic in nature. Mean
 ## [Contributing](CONTRIBUTING.md)
 
 ### Todo
-* Read related books and articles before adding them
+* Read these books and articles before adding them:
   * An Army of Problem Solvers by Shaun Loney
   * Introduction to Social Entrepreneurship by Teresa Chahine
   * Educating at Scale for Sustainable Development and Social Enterprise Growth by Sara Calvo 
