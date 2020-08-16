@@ -13,7 +13,23 @@
   
 </details>
 
-## Wikipedia Links 🔗
+## Contents
+* [What to Read](#what-to-read)
+* [Courses](#courses-)
+* [Fellowships](#fellowships)
+* [Institutions](#institutions-)
+* [Tools](#tools-)
+* [Videos](#videos-)
+* [Movies](#movies-)
+* [Communities](#communities-)
+* [People](#people-)
+* [Social Enterprise Examples](#social-enterprise-examples)
+* [Miscellaneous](#miscellaneous)
+* [FAQs](#faqs-)
+* [Contributing](#contributing)
+
+## What to Read
+### Wikipedia Links 🔗
 Wikipedia is a great place to explore and find related topics.
 
 * [Social enterprise](https://en.wikipedia.org/wiki/Social_enterprise)
@@ -24,8 +40,8 @@ Wikipedia is a great place to explore and find related topics.
 * [Category:Social entrepreneurship](https://en.wikipedia.org/wiki/Category:Social_entrepreneurship)
  
 
-## News 📰
-### Finding Articles
+### News 📰
+#### Finding Articles
 * [Pioneers Post](https://www.pioneerspost.com/) - The Social Enterprise Magazine
 * [Impact Boom](https://www.impactboom.org/blog) - Social impact blog and podcast
 * Harvard Business Review [articles tagged "social enterprise"](https://hbr.org/topic/social-enterprise)
@@ -36,12 +52,12 @@ Wikipedia is a great place to explore and find related topics.
     * A small but growing organization dedicated to covering impact investing. Content is often Russia oriented and not always directly about social enterprises but much of the content is relative. [Here](https://youtu.be/Pzxz38AnXCc) is a video summarizing their work in 2019.
 * [Journal of Social Entrepreneurship](https://www.tandfonline.com/toc/rjse20/current)
 
-### Articles
+#### Articles
 * [State of Social Entrepreneurship 2020](https://echoinggreen.org/news/state-of-social-entrepreneurship-2020/) by Echoing Green
     * [Echoing Green 2020 Fellows](https://echoinggreen.org/news/2020-fellows/)
 * [90+ Inspiring Books For Impact-Driven Doers and Entrepreneurs](https://www.impactboom.org/blog/2020/1/10/90-inspiring-books-for-impact-driven-doers-and-social-entrepreneurs)
 
-## Papers 📃
+### Papers 📃
 * (1998) _The Meaning of "Social Entrepreneurship"_ by J. Gregory Dees
     - A short history of social entrepreneurship (and why the definition isn't agreed upon)
 * (2004) _The Legitimacy of Social Enterprise_ Raymond Dart
@@ -54,7 +70,7 @@ https://socialent.org/documents/EVOLUTIONOFTHESOCIALENTERPRISEINDUSTRY--ACHRONOL
 * (2014) _Social Enterprise – A New Phenomenon in the Field of Economic and Social Welfare?_ by Leandro Sepulveda
     - A history of social enterprises from a UK perspective
 
-## Books 📚
+### Books 📚
 | Title | Author | Year | Notes |
 |-------|--------|------|-------|
 |Social Entrepreneurship: What Everyone Needs To Know|David Bornstein|2010| Great introduction to social entrepreneurship. Short and sweet with lots of great answers to common questions. |
@@ -207,13 +223,9 @@ Q: Why not just add this information to Wikipedia?
 A: Wikipedia is meant to contain information that's encyclopedic in nature. Meaning, it should contain the most important and verified information in a well summarized form. This document is much more like a phone book trying to link out to relative resources that are useful.
 
 
-## Contributing
+## [Contributing](./CONTRIBUTING.md)
 
-If you have some resources you think would be a good fit please let me know. You can reach out to me on [Twitter](https://twitter.com/RayScript) or open an issue on this repo. Please focus on resources you believe are relevant to social enterprises.
-
-
-## Todo
-* Request to be included in list of awesome repos [here](https://github.com/sindresorhus/awesome#business)
+### Todo
 * Read related books and articles before adding them
     * An Army of Problem Solvers by Shaun Loney
     * Introduction to Social Entrepreneurship by Teresa Chahine
