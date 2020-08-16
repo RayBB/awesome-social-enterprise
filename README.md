@@ -81,7 +81,7 @@ Wikipedia is a great place to explore and find related topics.
 Future Learn
 * [Social Enterprise Program](https://www.futurelearn.com/programs/social-enterprise)
   * By Middlesex University Business School & Jindal Centre for Social Innovation + Entrepreneurship program 
-  * Free, three courses, 9 weeks total
+  * Free, three courses, nine weeks total
   * According to [this](https://doi.org/10.3390/su12083247) paper, the courses were quite impactful and helped start many social enterprises
 
 [Philanthropy University](https://courses.philanthropyu.org/courses) | [Interview with CEO](https://iblnews.org/philanthropy-universitys-connor-diemand-yauman/) | [Origins](https://www.nytimes.com/2015/10/17/your-money/online-university-helps-philanthropic-groups-and-their-leaders.html)  
@@ -100,8 +100,8 @@ Coursera
 * Offers free and paid courses to help individuals create social change
 
 ## Fellowships
-* [Year Here](https://yearhere.org/) - 1 year social enterprise fellowship to build an organization based in London
-* [Acumen Academy Fellowship](https://acumenacademy.org/fellowship) - 1 year fellowship with the goal of equipping individuals with the tools to tackle issues in their communities
+* [Year Here](https://yearhere.org/) - One year social enterprise fellowship to build an organization based in London
+* [Acumen Academy Fellowship](https://acumenacademy.org/fellowship) - One year fellowship with the goal of equipping individuals with the tools to tackle issues in their communities
 
 ## Institutions 🏫
 Academic institutions researching social enterprise:
