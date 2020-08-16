@@ -151,7 +151,7 @@ List of academic institutions doing research about social enterprises. List is i
 
 ### Finding Local Communities
 * [Meetup](https://www.meetup.com/)
-* [eventbrite](https://www.eventbrite.com/)
+* [Eventbrite](https://www.eventbrite.com/)
 * [SEA Chapters](https://socialenterprise.us/programs/chapter-directory/)
 
 ### Networks

@@ -3,8 +3,8 @@
 Thanks for considering helping out! This list is still growing to do and we are open to suggestions for new items and categories. 
 I encourage you to open a Pull Request with the change you'd like to make.
 
-We are focused on **Social Enterprises** as a _business structure_. This means less content about invividuals and more about organizations. 
-However, it's not easy to draw a concrete distiction so if you're not sure just ask!
+We are focused on **Social Enterprises** as a _business structure_. This means less content about individuals and more about organizations. 
+However, it's not easy to draw a concrete distinction so if you're not sure just ask!
 
 ## Specifics
 - Search previous suggestions before making a new one, as yours may be a duplicate.
