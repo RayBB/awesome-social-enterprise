@@ -97,7 +97,7 @@ Coursera
 * [Social Entrepreneurship Specialization](https://www.coursera.org/specializations/social-entrepreneurship-cbs) by Copenhagen Business School - Three courses to complete over 4 months
 
 [Acumen Academy](https://acumenacademy.org/learn)
-* Offering several free and paid courses aimed at helping individuals create social change
+* Offers several free and paid courses to help individuals create social change
 
 ## Fellowships
 * [Year Here](https://yearhere.org/) - 1 year social enterprise fellowship to build an organization based in London
