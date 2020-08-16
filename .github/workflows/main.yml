@@ -19,9 +19,6 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-
-      - name: Install dependencies
-        run: npm install --global awesome-lint
       
       - name: Run awesome-lint
-        run: awesome-lint
+        run: npx awesome-lint
