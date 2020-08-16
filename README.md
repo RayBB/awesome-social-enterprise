@@ -173,7 +173,7 @@ List of academic institutions doing research about social enterprises.
 ## People 🧑
 
 ### Authors
-* [Susan Davis](https://en.wikipedia.org/wiki/Susan_Davis_(author)) - Co-authored books on on Social Enterprise and highly active in community
+* [Susan Davis](https://en.wikipedia.org/wiki/Susan_Davis_(author)) - Co-authored books on on social enterprise and highly active in community
 * [David Bornstein](https://en.wikipedia.org/wiki/David_Bornstein_(author)) - Wrote several popular books on social entrepreneurship
 
 ### Social Entrepreneurs
