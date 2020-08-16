@@ -104,7 +104,7 @@ Coursera
 * [Acumen Academy Fellowship](https://acumenacademy.org/fellowship) - 1 year fellowship with the goal of equipping individuals with the tools to tackle issues in their communities
 
 ## Institutions 🏫
-List of academic institutions doing research about social enterprises.
+Academic institutions researching social enterprise:
 
 * [Middlesex University Business School](https://www.mdx.ac.uk/our-research/centres/ceedr/social-enterprise)
 * [Jindal Centre for Social Innovation + Entrepreneurship program](https://www.jsie.in/)
