@@ -93,8 +93,8 @@ edX
 * [Disciplined Approach to Social Entrepreneurship](https://www.edx.org/course/disciplined-approach-to-social-entrepreneurship) by Curtin University
 
 Coursera  
-* [Social Entrepreneurship](https://www.coursera.org/learn/wharton-social-entrepreneurship) by Wharton Business School - One course, approximately 9 hours of work
-* [Social Entrepreneurship Specialization](https://www.coursera.org/specializations/social-entrepreneurship-cbs) by Copenhagen Business School - Three courses to complete over 4 months
+* [Social Entrepreneurship](https://www.coursera.org/learn/wharton-social-entrepreneurship) by Wharton Business School - One course, approximately nine hours of work
+* [Social Entrepreneurship Specialization](https://www.coursera.org/specializations/social-entrepreneurship-cbs) by Copenhagen Business School - Three courses to complete over four months
 
 [Acumen Academy](https://acumenacademy.org/learn)
 * Offers free and paid courses to help individuals create social change
