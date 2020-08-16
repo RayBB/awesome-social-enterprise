@@ -38,7 +38,7 @@ Wikipedia is a great place to explore and find related topics.
 * [Category:Social entrepreneurship](https://en.wikipedia.org/wiki/Category:Social_entrepreneurship)
  
  <!--Ignore double link until fixed: https://github.com/sindresorhus/awesome-lint/issues/114-->
-<!--lint disable double-linkk--> 
+<!--lint disable double-link--> 
 <!--lint disable awesome-list-item-->
 <!--lint disable table-pipe-alignment-->
 ### News 📰
