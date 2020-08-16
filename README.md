@@ -15,18 +15,16 @@
 
 ## Contents
 * [What to Read](#what-to-read)
-* [Courses](#courses-)
+* [Courses 🎓](#courses-)
 * [Fellowships](#fellowships)
-* [Institutions](#institutions-)
-* [Tools](#tools-)
-* [Videos](#videos-)
-* [Movies](#movies-)
-* [Communities](#communities-)
-* [People](#people-)
+* [Institutions 🏫](#institutions-)
+* [Tools 🔨](#tools-)
+* [What to Watch](#what-to-watch)
+* [Communities 🤝](#communities-🤝)
+* [People 🧑](#people-🧑)
 * [Social Enterprise Examples](#social-enterprise-examples)
 * [Miscellaneous](#miscellaneous)
-* [FAQs](#faqs-)
-* [Contributing](#contributing)
+* [FAQs ❓](#faqs-)
 
 ## What to Read
 ### Wikipedia Links 🔗
@@ -39,7 +37,10 @@ Wikipedia is a great place to explore and find related topics.
 * [Category:Social entrepreneurs](https://en.wikipedia.org/wiki/Category:Social_entrepreneurs)
 * [Category:Social entrepreneurship](https://en.wikipedia.org/wiki/Category:Social_entrepreneurship)
  
-
+ <!--Ignore double link until fixed: https://github.com/sindresorhus/awesome-lint/issues/114-->
+<!--lint disable double-link--> 
+<!--lint disable awesome-list-item-->
+<!--lint disable table-pipe-alignment-->
 ### News 📰
 #### Finding Articles
 * [Pioneers Post](https://www.pioneerspost.com/) - The Social Enterprise Magazine
@@ -47,42 +48,41 @@ Wikipedia is a great place to explore and find related topics.
 * Harvard Business Review [articles tagged "social enterprise"](https://hbr.org/topic/social-enterprise)
 * Stanford Social Innovation Review [articles tagged "social enterprise"](https://ssir.org/topics/category/social_enterprise#)
 * [The Schwab Foundation for Social Entrepreneurship](https://www.weforum.org/communities/schwab-foundation-for-social-entrepreneurship/articles)
-* Top Medium posts about [Social Enterprise](https://medium.com/tag/social-entrepreneurship/archive/) and [Social Entrepreneurship](https://medium.com/tag/social-entrepreneurship/archive)
+* Top Medium posts about [Social Enterprise](https://medium.com/tag/social-enterprise/archive) and [Social Entrepreneurship](https://medium.com/tag/social-entrepreneurship/archive)
 * Galileo Impact Stories | [YouTube](https://www.youtube.com/channel/UCtpwKxUCqGfHPKSqYKgfphw) | [Kickstarter](https://www.kickstarter.com/projects/baurens/pro-russia) | [Website](https://iiic.ch/)  
-    * A small but growing organization dedicated to covering impact investing. Content is often Russia oriented and not always directly about social enterprises but much of the content is relative. [Here](https://youtu.be/Pzxz38AnXCc) is a video summarizing their work in 2019.
+  * A small but growing organization dedicated to covering impact investing. Content is often Russia oriented and not always directly about social enterprises but much of the content is relative. [Here](https://youtu.be/Pzxz38AnXCc) is a video summarizing their work in 2019.
 * [Journal of Social Entrepreneurship](https://www.tandfonline.com/toc/rjse20/current)
 
 #### Articles
 * [State of Social Entrepreneurship 2020](https://echoinggreen.org/news/state-of-social-entrepreneurship-2020/) by Echoing Green
-    * [Echoing Green 2020 Fellows](https://echoinggreen.org/news/2020-fellows/)
+  * [Echoing Green 2020 Fellows](https://echoinggreen.org/news/2020-fellows/)
 * [90+ Inspiring Books For Impact-Driven Doers and Entrepreneurs](https://www.impactboom.org/blog/2020/1/10/90-inspiring-books-for-impact-driven-doers-and-social-entrepreneurs)
 
 ### Papers 📃
 * (1998) _The Meaning of "Social Entrepreneurship"_ by J. Gregory Dees
-    - A short history of social entrepreneurship (and why the definition isn't agreed upon)
+  * A short history of social entrepreneurship (and why the definition isn't agreed upon)
 * (2004) _The Legitimacy of Social Enterprise_ Raymond Dart
-    - A pragmatic discussion on why social enterprises, in relation to nonprofits, exist
-* (2008) [_Evolution of the social enterprise industry_](
-https://socialent.org/documents/EVOLUTIONOFTHESOCIALENTERPRISEINDUSTRY--ACHRONOLOGYOFKEYEVENTS.pdf) by the Institute for Social Entrepreneurs
-    - Less academic but a detailed history of events related to social enterprises
+  * A pragmatic discussion on why social enterprises, in relation to nonprofits, exist
+* (2008) [_Evolution of the social enterprise industry_](https://socialent.org/documents/EVOLUTIONOFTHESOCIALENTERPRISEINDUSTRY--ACHRONOLOGYOFKEYEVENTS.pdf) by the Institute for Social Entrepreneurs
+  * Less academic but a detailed history of events related to social enterprises
 * (2010) _Conceptions of Social Enterprise and Social Entrepreneurship_ by Jacques Defourny
-    - Parallels between US and European Social Enterprises
+  * Parallels between US and European Social Enterprises
 * (2014) _Social Enterprise – A New Phenomenon in the Field of Economic and Social Welfare?_ by Leandro Sepulveda
-    - A history of social enterprises from a UK perspective
+  * A history of social enterprises from a UK perspective
 
 ### Books 📚
 | Title | Author | Year | Notes |
 |-------|--------|------|-------|
-|Social Entrepreneurship: What Everyone Needs To Know|David Bornstein|2010| Great introduction to social entrepreneurship. Short and sweet with lots of great answers to common questions. |
+| Social Entrepreneurship: What Everyone Needs To Know | David Bornstein | 2010 | Great introduction to social entrepreneurship. Short and sweet with lots of great answers to common questions. |
 |       |        |      |       |
 
 
 ## Courses 🎓
 Future Learn
 * [Social Enterprise Program](https://www.futurelearn.com/programs/social-enterprise)
-    * By Middlesex University Business School & Jindal Centre for Social Innovation + Entrepreneurship program 
-    * Free, three courses, 9 weeks total
-    * According to [this](https://doi.org/10.3390/su12083247) paper, the courses were quite impactful and helped start many social enterprises
+  * By Middlesex University Business School & Jindal Centre for Social Innovation + Entrepreneurship program 
+  * Free, three courses, 9 weeks total
+  * According to [this](https://doi.org/10.3390/su12083247) paper, the courses were quite impactful and helped start many social enterprises
 
 [Philanthropy University](https://courses.philanthropyu.org/courses) | [Interview with CEO](https://iblnews.org/philanthropy-universitys-connor-diemand-yauman/) | [Origins](https://www.nytimes.com/2015/10/17/your-money/online-university-helps-philanthropic-groups-and-their-leaders.html)  
 
@@ -118,13 +118,15 @@ List of academic institutions doing research about social enterprises. List is i
 * [ProPublica Nonprofit Explorer](https://projects.propublica.org/nonprofits/) - Easily access any U.S. nonprofit's tax documents
 * [Social Bearing](https://socialbearing.com/search/user) - Useful to determine how popular/active any Twitter account is
 
-## Videos 📽
+## What to Watch
+
+### Videos 📽
 * [Social Entrepreneurs: Pioneering Social Change](https://www.youtube.com/watch?v=jk5LI_WcosQ) - Skoll Foundation video about social entrepreneurs
-* [Muhammad Yunus’s Nobel Prize Speech](https://www.nobelprize.org/prizes/peace/2006/yunus/lecture/) — Yunus built Grameen Bank, the poster child for social enterprises
+* [Muhammad Yunus's Nobel Prize Speech](https://www.nobelprize.org/prizes/peace/2006/yunus/lecture/) — Yunus built Grameen Bank, the poster child for social enterprises
 * [Social Enterprise 101](https://www.youtube.com/watch?v=9_g5RqwW51I)
 * [How social entrepreneurship will change the world | Erica Wenger | TEDxUSC](https://www.youtube.com/watch?v=KrQuGTvwl0s)
 
-## Movies 🎥
+### Movies 🎥
 | Title | Year | Notes |
 |-------|------|-------|
 | The Social Shift | 2018 | Four young adults travel across Canada interviewing social entrepreneurs |
@@ -134,13 +136,13 @@ List of academic institutions doing research about social enterprises. List is i
 
 ### Online 
 * Reddit    
-    * [Socialpreneur](https://www.reddit.com/r/Socialpreneur/) - 5k members  
+  * [Socialpreneur](https://www.reddit.com/r/Socialpreneur/) - 5k members  
 * Facebook  
-    * [Social Entrepreneurs](https://www.facebook.com/groups/socentnet/) - 2k members
+  * [Social Entrepreneurs](https://www.facebook.com/groups/socentnet/) - 2k members
 * Quora
-    * [Social Entrepreneurship](https://www.quora.com/topic/Social-Entrepreneurship) - 375k followers, great for asking questions
+  * [Social Entrepreneurship](https://www.quora.com/topic/Social-Entrepreneurship) - 375k followers, great for asking questions
 * United States Association for Small Business and Entrepreneurship (USASBE)
-    * [Social Entrepreneurship](https://www.usasbe.org/group/Social) - Focused on social entrepreneurship education
+  * [Social Entrepreneurship](https://www.usasbe.org/group/Social) - Focused on social entrepreneurship education
 
 ### Conferences
 * [Skoll World Forum](https://skoll.org/skoll-world-forum/)
@@ -149,7 +151,7 @@ List of academic institutions doing research about social enterprises. List is i
 
 ### Finding Local Communities
 * [Meetup](https://www.meetup.com/)
-* [eventbrite](https://www.eventbrite.com/)
+* [Eventbrite](https://www.eventbrite.com/)
 * [SEA Chapters](https://socialenterprise.us/programs/chapter-directory/)
 
 ### Networks
@@ -198,14 +200,14 @@ See a feed of all these accounts by following my "Social Enterprise News" Twitte
 * [Impact Boom](https://twitter.com/ImpactBoomOrg)
 * [Acumen](https://twitter.com/Acumen)
 
-## [Social Enterprise Examples](/social_enterprise_examples.md)
+## [Social Enterprise Examples](social_enterprise_examples.md)
 
 ## Miscellaneous 
 * [WorldShapers](https://worldshapers.net/) - An abundance of resources related to social entrepreneurship education
 * [Benefit Corporation](https://en.wikipedia.org/wiki/Benefit_corporation) - A type of for-profit corporate entity, authorized by 35 U.S. states
 * [B Corp Certification](https://en.wikipedia.org/wiki/B_Corporation_(certification)) - Certificate issued for existing for profit organizations demonstrating social responsibility
 
-## FAQs ❓  
+## FAQs ❓
 
 Q: What is the goal of this repo?  
 A: To provide resources for people to dive into the world of social enterprises. To get people excited about social enterprises. To spread the word of social enterprises.
@@ -223,10 +225,10 @@ Q: Why not just add this information to Wikipedia?
 A: Wikipedia is meant to contain information that's encyclopedic in nature. Meaning, it should contain the most important and verified information in a well summarized form. This document is much more like a phone book trying to link out to relative resources that are useful.
 
 
-## [Contributing](./CONTRIBUTING.md)
+## [Contributing](CONTRIBUTING.md)
 
 ### Todo
 * Read related books and articles before adding them
-    * An Army of Problem Solvers by Shaun Loney
-    * Introduction to Social Entrepreneurship by Teresa Chahine
-    * Educating at Scale for Sustainable Development and Social Enterprise Growth by Sara Calvo 
+  * An Army of Problem Solvers by Shaun Loney
+  * Introduction to Social Entrepreneurship by Teresa Chahine
+  * Educating at Scale for Sustainable Development and Social Enterprise Growth by Sara Calvo 
