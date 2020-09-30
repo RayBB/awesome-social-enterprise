@@ -39,7 +39,6 @@ Wikipedia is a great place to explore and find related topics.
  
  <!--Ignore double link until fixed: https://github.com/sindresorhus/awesome-lint/issues/114-->
 <!--lint disable double-link--> 
-<!--lint disable awesome-list-item-->
 <!--lint disable table-pipe-alignment-->
 ### News 📰
 #### Finding Articles
@@ -54,7 +53,7 @@ Wikipedia is a great place to explore and find related topics.
 * [Journal of Social Entrepreneurship](https://www.tandfonline.com/toc/rjse20/current) - _The_ academic journal for the topic.
 
 #### Articles
-* [State of Social Entrepreneurship 2020](https://echoinggreen.org/news/state-of-social-entrepreneurship-2020/) by Echoing Green
+* [State of Social Entrepreneurship 2020](https://echoinggreen.org/news/state-of-social-entrepreneurship-2020/) - Overview of SE in 2020 by Echoing Green.
   * [Echoing Green 2020 Fellows](https://echoinggreen.org/news/2020-fellows/)
 * [90+ Inspiring Books For Impact-Driven Doers and Entrepreneurs](https://www.impactboom.org/blog/2020/1/10/90-inspiring-books-for-impact-driven-doers-and-social-entrepreneurs)
 
@@ -88,12 +87,12 @@ Future Learn
 * Several free courses such as: _Introduction to Fundraising_, _Fundraising Strategies_, _and Setting Up a Nonprofit Board_.
 
 edX   
-* [Business and Impact Planning for Social Enterprises](https://www.edx.org/course/business-and-impact-planning-for-social-enterprise) by MIT.
-* [Disciplined Approach to Social Entrepreneurship](https://www.edx.org/course/disciplined-approach-to-social-entrepreneurship) by Curtin University.
+* [Business and Impact Planning for Social Enterprises](https://www.edx.org/course/business-and-impact-planning-for-social-enterprise) - By MIT.
+* [Disciplined Approach to Social Entrepreneurship](https://www.edx.org/course/disciplined-approach-to-social-entrepreneurship) - By Curtin University.
 
 Coursera  
-* [Social Entrepreneurship](https://www.coursera.org/learn/wharton-social-entrepreneurship) by Wharton Business School - One course, approximately nine hours of work.
-* [Social Entrepreneurship Specialization](https://www.coursera.org/specializations/social-entrepreneurship-cbs) by Copenhagen Business School - Three courses to complete over four months.
+* [Social Entrepreneurship](https://www.coursera.org/learn/wharton-social-entrepreneurship) - By Wharton Business School. One course, approximately nine hours of work.
+* [Social Entrepreneurship Specialization](https://www.coursera.org/specializations/social-entrepreneurship-cbs) - By Copenhagen Business School. Three courses to complete over four months.
 
 [Acumen Academy](https://acumenacademy.org/learn)
 * Offers free and paid courses to help individuals create social change.
@@ -135,9 +134,8 @@ Academic institutions researching social enterprise:
 
 ### Online 
 
-[comment]: # (* https://www.reddit.com/r/Socialpreneur/ - not active lately)
 * Facebook
-  * [Social Entrepreneurs](https://www.facebook.com/groups/socentnet/) - 2k members many posts each day. 
+  * [Social Entrepreneurs](https://www.facebook.com/groups/socentnet/) - 2k members many posts each day.
 * Quora
   * [Social Entrepreneurship](https://www.quora.com/topic/Social-Entrepreneurship) - 375k followers, great for asking questions.
 * United States Association for Small Business and Entrepreneurship (USASBE).
@@ -154,7 +152,7 @@ Academic institutions researching social enterprise:
 * [Eventbrite](https://www.eventbrite.com/) - Easy site for discovering events near you.
 
 ### Networks
-* [senco](https://senco.io/home/) (social enterprise network of central ontario) - Canada group promoting social enterprises.
+* [senco (social enterprise network of central ontario)](https://senco.io/home/) - Canada group promoting social enterprises.
 * [Social Enterprise Alliance](https://socialenterprise.us/) - US social enterprise advocates.
 * [enactus](https://enactus.org/) - Worldwide organization fostering student social entrepreneurs.
 * [Buy Good. Feel Good.](https://buygoodfeelgood.com/) - North American expo dedicated to brands that are changing the world.
