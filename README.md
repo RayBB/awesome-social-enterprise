@@ -15,8 +15,8 @@
 
 ## Contents
 * [What to Read](#what-to-read)
-* [Courses 🎓](#courses-)
 * [Podcasts 🎧](#podcasts-)
+* [Courses 🎓](#courses-)
 * [Fellowships](#fellowships)
 * [Institutions 🏫](#institutions-)
 * [Tools 🔨](#tools-)
