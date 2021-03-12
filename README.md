@@ -51,11 +51,13 @@ Wikipedia is a great place to explore and find related topics.
 * Galileo Impact Stories | [YouTube](https://www.youtube.com/channel/UCtpwKxUCqGfHPKSqYKgfphw) | [Kickstarter](https://www.kickstarter.com/projects/baurens/pro-russia) | [Website](https://iiic.ch/)  
   * A small but growing organization dedicated to covering impact investing. Content is often Russia oriented and not always directly about social enterprises but much of the content is relative. [Here](https://youtu.be/Pzxz38AnXCc) is a video summarizing their work in 2019.
 * [Journal of Social Entrepreneurship](https://www.tandfonline.com/toc/rjse20/current) - _The_ academic journal for the topic.
+* [The Straits Times](https://www.straitstimes.com/tags/social-enterprises) - Singapore based newspaper with articles about social enterprise.
 
 #### Articles
 * [State of Social Entrepreneurship 2020](https://echoinggreen.org/news/state-of-social-entrepreneurship-2020/) - Overview of SE in 2020 by Echoing Green.
   * [Echoing Green 2020 Fellows](https://echoinggreen.org/news/2020-fellows/)
 * [90+ Inspiring Books For Impact-Driven Doers and Entrepreneurs](https://www.impactboom.org/blog/2020/1/10/90-inspiring-books-for-impact-driven-doers-and-social-entrepreneurs)
+* 
 
 ### Papers 📃
 * (1998) _The Meaning of "Social Entrepreneurship"_ by J. Gregory Dees
