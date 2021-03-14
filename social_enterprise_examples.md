@@ -7,3 +7,4 @@
 * [Twenty One Toys](https://twentyonetoys.com/) -  Teaches empathy, failure, and other key 21st century skills using toys and playful workshops.
 * [Impact Boom](https://www.impactboom.org/) - Focuses on the support and development of social enterprise globally.
 * [Zero Waste Event Productions](http://zerowastefest.com/) - Help festivals and events manage waste and reduce pollution. [article](https://themetropreneur.com/columbus/from-plastic-to-ppe-how-this-social-enterprise-pivoted-during-a-pandemic/)
+* [MOZAIK](https://mozaikphilanthropy.org/new-economy-grantees/) - Lists several social enterprises that they have provided funding to in 2021.
