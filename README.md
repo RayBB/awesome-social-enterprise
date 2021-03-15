@@ -73,10 +73,9 @@ Wikipedia is a great place to explore and find related topics.
   * A history of social enterprises from a UK perspective.
 
 ### Books 📚
-| Title | Author | Year | Notes |
-|-------|--------|------|-------|
+| Title                                                | Author          | Year | Notes                                                                                                          |
+|------------------------------------------------------|-----------------|------|---------------------------------------------------------------------------------------------------------------|
 | Social Entrepreneurship: What Everyone Needs To Know | David Bornstein | 2010 | Great introduction to social entrepreneurship. Short and sweet with lots of great answers to common questions. |
-|       |        |      |       |
 
 ## Podcasts 🎧
 * [The Tech Matters Podcast](https://techmatters.org/introducing-the-tech-matters-podcast/) - Talking about social enterprise structure and interviewing folks running them. Hosted by social entreprenur and engineer [Jim Fruchterman](https://en.wikipedia.org/wiki/Jim_Fruchterman).
