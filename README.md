@@ -233,3 +233,5 @@ A: Wikipedia is meant to contain information that's encyclopedic in nature. Mean
   * An Army of Problem Solvers by Shaun Loney
   * Introduction to Social Entrepreneurship by Teresa Chahine
   * Educating at Scale for Sustainable Development and Social Enterprise Growth by Sara Calvo 
+
+<script async data-id="f73c79d7-c75e-4778-844d-b26eb8bcf4b9" src="https://tinyads.io/e"></script>
