@@ -77,6 +77,15 @@ Wikipedia is a great place to explore and find related topics.
 |------------------------------------------------------|-----------------|------|---------------------------------------------------------------------------------------------------------------|
 | Social Entrepreneurship: What Everyone Needs To Know | David Bornstein | 2010 | Great introduction to social entrepreneurship. Short and sweet with lots of great answers to common questions. |
 
+Add table that is supposed to render
+| Rating    | Security            | Explanation                             |
+|-----------|---------------------|-----------------------------------------|
+| Excellent | Very secure         | Criteria is met optimal                 |
+| High      | Secure              | Criteria is met                         |
+| Mid       | Insufficient secure | Criteria is met partly                  |
+| Low       | Insecure            | Criteria is no met                      |
+| N/A       | Not rated           | Criteria is not available or irrelevant |
+
 ## Podcasts 🎧
 * [The Tech Matters Podcast](https://techmatters.org/introducing-the-tech-matters-podcast/) - Talking about social enterprise structure and interviewing folks running them. Hosted by social entreprenur and engineer [Jim Fruchterman](https://en.wikipedia.org/wiki/Jim_Fruchterman).
 
