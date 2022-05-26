@@ -22,7 +22,7 @@
 * [Tools 🔨](#tools-)
 * [What to Watch](#what-to-watch)
 * [Communities 🤝](#communities-)
-* [People 🧑](#people-🧑)
+* [People 🧑](#people-)
 * [Social Enterprise Examples](#social-enterprise-examples)
 * [Miscellaneous](#miscellaneous)
 * [FAQs ❓](#faqs-)
