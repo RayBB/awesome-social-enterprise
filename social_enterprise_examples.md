@@ -9,3 +9,5 @@
 * [Zero Waste Event Productions](http://zerowastefest.com/) - Help festivals and events manage waste and reduce pollution. [article](https://themetropreneur.com/columbus/from-plastic-to-ppe-how-this-social-enterprise-pivoted-during-a-pandemic/)
 * [MOZAIK](https://mozaikphilanthropy.org/new-economy-grantees/) - Lists several social enterprises that they have provided funding to in 2021.
 * [Fairphone](https://en.wikipedia.org/wiki/Fairphone) - Creates smartphones that are easily repairable and have give years of support.
+* [Beetroot](https://beetroot.co/) - Socially concious software development.
+* 
