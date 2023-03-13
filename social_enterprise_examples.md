@@ -10,4 +10,4 @@
 * [MOZAIK](https://mozaikphilanthropy.org/new-economy-grantees/) - Lists several social enterprises that they have provided funding to in 2021.
 * [Fairphone](https://en.wikipedia.org/wiki/Fairphone) - Creates smartphones that are easily repairable and have give years of support.
 * [Beetroot](https://beetroot.co/) - Socially concious software development.
-* 
+* [Humanitix](https://www.humanitix.com/) - Event ticketing software that is structured as non-profit and donates much money to charity.
