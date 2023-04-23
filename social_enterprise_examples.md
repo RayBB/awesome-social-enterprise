@@ -13,4 +13,6 @@
 * [Humanitix](https://www.humanitix.com/) - Event ticketing software that is structured as non-profit and donates much money to charity.
 * [Urban Alchemy](https://urban-alchemy.us/) - Helps mananage homeless encampments while employing formerly incarcerated people.
 * [Caremart](https://www.thestar.com.my/lifestyle/family/2023/03/24/social-enterprise-helps-poor-families-with-subsidised-groceries) - Malaysian grocery stores that offers those in need a 30% discount on essential items.
-* [Lendology](https://www.lendology.org.uk/) - Working with local governments to give low cost loans to families for home imporvement in the UK.
+* [Lendology](https://www.lendology.org.uk/) - works with local governments to give low cost loans to families for home imporvement in the UK.
+* [Social Copy and Print](https://www.socialprintandcopy.org/) - Suplies of copier and print solutions to the third sector.
+* [Familiarisation Videos](https://www.familiarisationvideos.co.uk) - Making the Unfamiliar More Familiar to reduce anxiety & help people overcome barriers when going to new places.
