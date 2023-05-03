@@ -16,3 +16,4 @@
 * [Lendology](https://www.lendology.org.uk/) - works with local governments to give low cost loans to families for home imporvement in the UK.
 * [Social Copy and Print](https://www.socialprintandcopy.org/) - Suplies of copier and print solutions to the third sector.
 * [Familiarisation Videos](https://www.familiarisationvideos.co.uk) - Making the Unfamiliar More Familiar to reduce anxiety & help people overcome barriers when going to new places.
+* [Automotive Free Clinic](https://www.automotivefreeclinic.org/) - Repairs cars. Describes themselves as mutual-aid but they give social enterprise vibes. [Article](https://lux-magazine.com/article/mutual-aid-cars-alabama/)
