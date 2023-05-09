@@ -6,7 +6,7 @@
 * [Commongood Linens](https://cmngd.com/) - Employs people facing poverty through a sustainable commercial laundry service.
 * [Twenty One Toys](https://twentyonetoys.com/) -  Teaches empathy, failure, and other key 21st century skills using toys and playful workshops.
 * [Impact Boom](https://www.impactboom.org/) - Focuses on the support and development of social enterprise globally.
-* [Zero Waste Event Productions](http://zerowastefest.com/) - Help festivals and events manage waste and reduce pollution. [article](https://themetropreneur.com/columbus/from-plastic-to-ppe-how-this-social-enterprise-pivoted-during-a-pandemic/)
+* [Zero Waste Event Productions](http://zerowastefest.com/) - Help festivals and events manage waste and reduce pollution. [Article](https://themetropreneur.com/columbus/from-plastic-to-ppe-how-this-social-enterprise-pivoted-during-a-pandemic/)
 * [MOZAIK](https://mozaikphilanthropy.org/new-economy-grantees/) - Lists several social enterprises that they have provided funding to in 2021.
 * [Fairphone](https://en.wikipedia.org/wiki/Fairphone) - Creates smartphones that are easily repairable and have give years of support.
 * [Beetroot](https://beetroot.co/) - Socially concious software development.
@@ -17,3 +17,4 @@
 * [Social Copy and Print](https://www.socialprintandcopy.org/) - Suplies of copier and print solutions to the third sector.
 * [Familiarisation Videos](https://www.familiarisationvideos.co.uk) - Making the Unfamiliar More Familiar to reduce anxiety & help people overcome barriers when going to new places.
 * [Automotive Free Clinic](https://www.automotivefreeclinic.org/) - Repairs cars. Describes themselves as mutual-aid but has similar ideas as social enterprise. [Article](https://lux-magazine.com/article/mutual-aid-cars-alabama/)
+* [Massive Bookshop](https://massivebookshop.com/) - Anti-profit online bookstore that stocks hard to get books and sends all proceeds to mutual-aid and community-building projects. [Article](https://www.fccdc.org/client-focus-massive-bookshop/)
