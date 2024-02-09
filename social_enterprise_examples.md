@@ -19,3 +19,4 @@
 * [Automotive Free Clinic](https://www.automotivefreeclinic.org/) - Repairs cars. Describes themselves as mutual-aid but has similar ideas as social enterprise. [Article](https://lux-magazine.com/article/mutual-aid-cars-alabama/)
 * [Massive Bookshop](https://massivebookshop.com/) - Anti-profit online bookstore that stocks hard to get books and sends all proceeds to mutual-aid and community-building projects. [Article](https://www.fccdc.org/client-focus-massive-bookshop/)
 * [First Book](https://firstbook.org/) - Provides free books to low-income families, 225 million so far. [Article](https://europeansting.com/2023/06/15/this-social-entrepreneur-has-provided-225-million-free-books-to-low-income-families/)
+* [Women's Work Lab](https://www.womensworklab.co.uk/) - helping unemployed mums and those on benefits back into workplace in the area. [Article](https://www.bristol247.com/business/news-business/female-led-business-celebrates-supporting-300-mums-back-into-work/)
