@@ -22,3 +22,4 @@
 * [Women's Work Lab](https://www.womensworklab.co.uk/) - Helping unemployed mums and those on benefits back into workplace in the area. [Article](https://www.bristol247.com/business/news-business/female-led-business-celebrates-supporting-300-mums-back-into-work/)
 * [New Generation Nutrition](https://ngn.co.nl/) - Developing the insect sector in the Netherlands and African countries.
 * [Cambium](https://cambiumcarbon.com/) - Transforming trees into sustainable materials and the inefficiencies in the lumber industry. [Article](https://causeartist.com/cambium-lumber-industry-carbon-smart/)
+* [Inspro Science Limited](https://www.insprotein.com/) - Integrate insect-based solutions for better resource utilization.
