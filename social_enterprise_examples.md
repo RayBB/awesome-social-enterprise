@@ -24,3 +24,4 @@
 * [Cambium](https://cambiumcarbon.com/) - Transforming trees into sustainable materials and the inefficiencies in the lumber industry. [Article](https://causeartist.com/cambium-lumber-industry-carbon-smart/)
 * [Inspro Science Limited](https://www.insprotein.com/) - Integrate insect-based solutions for better resource utilization.
 * [Spectrum Designs Foundation](https://www.spectrumdesigns.org/) - Specializing in screen printing and embroidery, creates custom apparel and promotional products while providing employment and training opportunities for neurodiverse individuals. Active on [IG](https://www.instagram.com/spectrum_designs)
+* [JAPJAP](https://japjap.com.hk/) - Decentralized waste processing using Black Soldier Flies. [Article](https://www.scmp.com/yp/discover/news/hong-kong/article/3280112/hong-kong-start-flies-face-food-waste-using-insects-create-compost)
